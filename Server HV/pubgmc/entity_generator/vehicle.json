@@ -1,0 +1,19 @@
+{
+  "type": "pubgmc:random_chance",
+  "chance": 0.2,
+  "provider": {
+    "type": "pubgmc:random_entity",
+    "providers": [
+      {
+        "type": "pubgmc:entity",
+        "entityClass": "dev.toma.pubgmc.common.entity.vehicles.EntityVehicleUAZ",
+        "processors": []
+      },
+      {
+        "type": "pubgmc:entity",
+        "entityClass": "dev.toma.pubgmc.common.entity.vehicles.EntityVehicleDacia",
+        "processors": []
+      }
+    ]
+  }
+}

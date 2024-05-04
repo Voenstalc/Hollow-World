@@ -1,0 +1,25 @@
+{
+  "playerCount": 16,
+  "captureSpeed": 0.0125,
+  "totalTickets": 10000,
+  "pointTicketLoss": 50,
+  "killTicketLoss": 15,
+  "gameDuration": 18000,
+  "allowAi": true,
+  "requirePointSuperiority": false,
+  "loadouts": [
+    "domination/ump45",
+    "domination/vector",
+    "domination/akm",
+    "domination/m416",
+    "domination/slr",
+    "domination/m24"
+  ],
+  "worldConfiguration": {
+    "daylightCycle": false,
+    "weatherCycle": false,
+    "dayTime": 5000,
+    "weatherDuration": 1000000,
+    "weatherType": "CLEAR"
+  }
+}

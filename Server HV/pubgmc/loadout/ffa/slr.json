@@ -1,0 +1,82 @@
+{
+  "name": "SLR",
+  "icon": {
+    "item": "pubgmc:slr",
+    "count": 1,
+    "metadata": 0
+  },
+  "weaponLoot": {
+    "type": "pubgmc:item",
+    "output": {
+      "item": "pubgmc:slr"
+    },
+    "processors": [
+      {
+        "type": "pubgmc:attachment_processor",
+        "attachments": [
+          {
+            "attachmentType": "Magazine",
+            "attachmentProvider": {
+              "type": "pubgmc:item",
+              "output": {
+                "item": "pubgmc:extended_mag_sniper"
+              }
+            }
+          },
+          {
+            "attachmentType": "Stock",
+            "attachmentProvider": {
+              "type": "pubgmc:item",
+              "output": {
+                "item": "pubgmc:cheekpad"
+              }
+            }
+          },
+          {
+            "attachmentType": "Scope",
+            "attachmentProvider": {
+              "type": "pubgmc:item",
+              "output": {
+                "item": "pubgmc:scope4x"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "type": "pubgmc:weapon_ammo_processor",
+        "min": 1.0,
+        "max": 1.0
+      },
+      {
+        "type": "pubgmc:ammo_processor",
+        "count": 45,
+        "minPacks": 2,
+        "maxPacks": 2
+      }
+    ]
+  },
+  "armorLoot": {
+    "type": "pubgmc:multi",
+    "items": [
+      {
+        "type": "pubgmc:item",
+        "output": {
+          "item": "pubgmc:armor1body"
+        }
+      },
+      {
+        "type": "pubgmc:item",
+        "output": {
+          "item": "pubgmc:armor1helmet"
+        }
+      }
+    ]
+  },
+  "specialEquipmentLoot": {
+    "type": "pubgmc:none"
+  },
+  "generalLoot": {
+    "type": "pubgmc:none"
+  }
+}

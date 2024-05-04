@@ -1,0 +1,48 @@
+{
+  "itemGroupDeclarations": {},
+  "pool": {
+    "type": "pubgmc:count",
+    "min": 1,
+    "max": 5,
+    "entry": {
+      "type": "pubgmc:random_item",
+      "items": [
+        {
+          "type": "pubgmc:item",
+          "output": {
+            "item": "pubgmc:ammo_9mm",
+            "count": 30
+          }
+        },
+        {
+          "type": "pubgmc:item",
+          "output": {
+            "item": "pubgmc:ammo_45acp",
+            "count": 30
+          }
+        },
+        {
+          "type": "pubgmc:item",
+          "output": {
+            "item": "pubgmc:ammo_556",
+            "count": 30
+          }
+        },
+        {
+          "type": "pubgmc:item",
+          "output": {
+            "item": "pubgmc:ammo_762",
+            "count": 30
+          }
+        },
+        {
+          "type": "pubgmc:item",
+          "output": {
+            "item": "pubgmc:ammo_shotgun",
+            "count": 10
+          }
+        }
+      ]
+    }
+  }
+}

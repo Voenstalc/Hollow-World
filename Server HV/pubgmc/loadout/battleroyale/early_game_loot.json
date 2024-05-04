@@ -1,0 +1,3290 @@
+{
+  "weaponLoot": {
+    "type": "pubgmc:weighted_item",
+    "items": [
+      {
+        "weight": 40,
+        "entry": {
+          "type": "pubgmc:random_item",
+          "items": [
+            {
+              "type": "pubgmc:item",
+              "output": {
+                "item": "pubgmc:p92"
+              },
+              "processors": [
+                {
+                  "type": "pubgmc:attachment_processor",
+                  "attachments": [
+                    {
+                      "attachmentType": "Muzzle",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.3,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:silencer_smg"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Magazine",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.35,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_sniper"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_ar"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Scope",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.2,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:red_dot"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:holographic"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:scope2x"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "pubgmc:ammo_processor",
+                  "count": 15
+                }
+              ]
+            },
+            {
+              "type": "pubgmc:item",
+              "output": {
+                "item": "pubgmc:p1911"
+              },
+              "processors": [
+                {
+                  "type": "pubgmc:attachment_processor",
+                  "attachments": [
+                    {
+                      "attachmentType": "Muzzle",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.3,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:silencer_smg"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Magazine",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.35,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_sniper"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_ar"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Scope",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.2,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:red_dot"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:holographic"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:scope2x"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "pubgmc:ammo_processor",
+                  "count": 15
+                }
+              ]
+            },
+            {
+              "type": "pubgmc:item",
+              "output": {
+                "item": "pubgmc:r1895"
+              },
+              "processors": [
+                {
+                  "type": "pubgmc:attachment_processor",
+                  "attachments": [
+                    {
+                      "attachmentType": "Muzzle",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.3,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:silencer_smg"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Magazine",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.35,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_sniper"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_ar"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Scope",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.2,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:red_dot"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:holographic"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:scope2x"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "pubgmc:ammo_processor",
+                  "count": 15
+                }
+              ]
+            },
+            {
+              "type": "pubgmc:item",
+              "output": {
+                "item": "pubgmc:r45"
+              },
+              "processors": [
+                {
+                  "type": "pubgmc:attachment_processor",
+                  "attachments": [
+                    {
+                      "attachmentType": "Muzzle",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.3,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:silencer_smg"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Magazine",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.35,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_sniper"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_ar"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Scope",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.2,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:red_dot"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:holographic"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:scope2x"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "pubgmc:ammo_processor",
+                  "count": 15
+                }
+              ]
+            },
+            {
+              "type": "pubgmc:item",
+              "output": {
+                "item": "pubgmc:p18c"
+              },
+              "processors": [
+                {
+                  "type": "pubgmc:attachment_processor",
+                  "attachments": [
+                    {
+                      "attachmentType": "Muzzle",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.3,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:silencer_smg"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Magazine",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.35,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_sniper"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_ar"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Scope",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.2,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:red_dot"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:holographic"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:scope2x"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "pubgmc:ammo_processor",
+                  "count": 15
+                }
+              ]
+            },
+            {
+              "type": "pubgmc:item",
+              "output": {
+                "item": "pubgmc:scorpion"
+              },
+              "processors": [
+                {
+                  "type": "pubgmc:attachment_processor",
+                  "attachments": [
+                    {
+                      "attachmentType": "Muzzle",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.3,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:silencer_smg"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Magazine",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.35,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_sniper"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_ar"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Scope",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.2,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:red_dot"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:holographic"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:scope2x"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "pubgmc:ammo_processor",
+                  "count": 15
+                }
+              ]
+            },
+            {
+              "type": "pubgmc:item",
+              "output": {
+                "item": "pubgmc:deagle"
+              },
+              "processors": [
+                {
+                  "type": "pubgmc:attachment_processor",
+                  "attachments": [
+                    {
+                      "attachmentType": "Muzzle",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.3,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:silencer_smg"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Magazine",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.35,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_sniper"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_ar"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Scope",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.2,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:red_dot"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:holographic"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:scope2x"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "pubgmc:ammo_processor",
+                  "count": 15
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "weight": 20,
+        "entry": {
+          "type": "pubgmc:random_item",
+          "items": [
+            {
+              "type": "pubgmc:item",
+              "output": {
+                "item": "pubgmc:sawed_off"
+              },
+              "processors": [
+                {
+                  "type": "pubgmc:attachment_processor",
+                  "attachments": [
+                    {
+                      "attachmentType": "Muzzle",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.3,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:silencer_smg"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Magazine",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.35,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_sniper"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_ar"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Scope",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.2,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:red_dot"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:holographic"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:scope2x"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "pubgmc:ammo_processor",
+                  "count": 5
+                }
+              ]
+            },
+            {
+              "type": "pubgmc:item",
+              "output": {
+                "item": "pubgmc:s1897"
+              },
+              "processors": [
+                {
+                  "type": "pubgmc:attachment_processor",
+                  "attachments": [
+                    {
+                      "attachmentType": "Muzzle",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.3,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:silencer_smg"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Magazine",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.35,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_sniper"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_ar"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Scope",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.2,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:red_dot"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:holographic"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:scope2x"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "pubgmc:ammo_processor",
+                  "count": 5
+                }
+              ]
+            },
+            {
+              "type": "pubgmc:item",
+              "output": {
+                "item": "pubgmc:s686"
+              },
+              "processors": [
+                {
+                  "type": "pubgmc:attachment_processor",
+                  "attachments": [
+                    {
+                      "attachmentType": "Muzzle",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.3,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:silencer_smg"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Magazine",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.35,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_sniper"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_ar"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Scope",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.2,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:red_dot"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:holographic"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:scope2x"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "pubgmc:ammo_processor",
+                  "count": 5
+                }
+              ]
+            },
+            {
+              "type": "pubgmc:item",
+              "output": {
+                "item": "pubgmc:s12k"
+              },
+              "processors": [
+                {
+                  "type": "pubgmc:attachment_processor",
+                  "attachments": [
+                    {
+                      "attachmentType": "Muzzle",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.3,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:silencer_smg"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Magazine",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.35,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_sniper"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_ar"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Scope",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.2,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:red_dot"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:holographic"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:scope2x"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "pubgmc:ammo_processor",
+                  "count": 5
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "weight": 30,
+        "entry": {
+          "type": "pubgmc:random_item",
+          "items": [
+            {
+              "type": "pubgmc:item",
+              "output": {
+                "item": "pubgmc:microuzi"
+              },
+              "processors": [
+                {
+                  "type": "pubgmc:attachment_processor",
+                  "attachments": [
+                    {
+                      "attachmentType": "Muzzle",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.3,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:silencer_smg"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Magazine",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.35,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_sniper"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_ar"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Scope",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.2,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:red_dot"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:holographic"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:scope2x"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "pubgmc:ammo_processor"
+                }
+              ]
+            },
+            {
+              "type": "pubgmc:item",
+              "output": {
+                "item": "pubgmc:ump45"
+              },
+              "processors": [
+                {
+                  "type": "pubgmc:attachment_processor",
+                  "attachments": [
+                    {
+                      "attachmentType": "Muzzle",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.3,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:silencer_smg"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Magazine",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.35,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_sniper"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_ar"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Scope",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.2,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:red_dot"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:holographic"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:scope2x"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "pubgmc:ammo_processor"
+                }
+              ]
+            },
+            {
+              "type": "pubgmc:item",
+              "output": {
+                "item": "pubgmc:tommy_gun"
+              },
+              "processors": [
+                {
+                  "type": "pubgmc:attachment_processor",
+                  "attachments": [
+                    {
+                      "attachmentType": "Muzzle",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.3,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:silencer_smg"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Magazine",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.35,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_sniper"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_ar"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Scope",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.2,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:red_dot"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:holographic"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:scope2x"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "pubgmc:ammo_processor"
+                }
+              ]
+            },
+            {
+              "type": "pubgmc:item",
+              "output": {
+                "item": "pubgmc:vector"
+              },
+              "processors": [
+                {
+                  "type": "pubgmc:attachment_processor",
+                  "attachments": [
+                    {
+                      "attachmentType": "Muzzle",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.3,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:silencer_smg"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Magazine",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.35,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_sniper"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_ar"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Scope",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.2,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:red_dot"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:holographic"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:scope2x"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "pubgmc:ammo_processor"
+                }
+              ]
+            },
+            {
+              "type": "pubgmc:item",
+              "output": {
+                "item": "pubgmc:mp5k"
+              },
+              "processors": [
+                {
+                  "type": "pubgmc:attachment_processor",
+                  "attachments": [
+                    {
+                      "attachmentType": "Muzzle",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.3,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:silencer_smg"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Magazine",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.35,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_sniper"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_ar"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Scope",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.2,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:red_dot"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:holographic"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:scope2x"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "pubgmc:ammo_processor"
+                }
+              ]
+            },
+            {
+              "type": "pubgmc:item",
+              "output": {
+                "item": "pubgmc:bizon"
+              },
+              "processors": [
+                {
+                  "type": "pubgmc:attachment_processor",
+                  "attachments": [
+                    {
+                      "attachmentType": "Muzzle",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.3,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:silencer_smg"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Magazine",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.35,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_sniper"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_ar"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Scope",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.2,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:red_dot"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:holographic"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:scope2x"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "pubgmc:ammo_processor"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "weight": 10,
+        "entry": {
+          "type": "pubgmc:random_item",
+          "items": [
+            {
+              "type": "pubgmc:item",
+              "output": {
+                "item": "pubgmc:m16a4"
+              },
+              "processors": [
+                {
+                  "type": "pubgmc:attachment_processor",
+                  "attachments": [
+                    {
+                      "attachmentType": "Muzzle",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.3,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:silencer_smg"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Magazine",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.35,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_sniper"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_ar"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Scope",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.2,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:red_dot"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:holographic"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:scope2x"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "pubgmc:ammo_processor"
+                }
+              ]
+            },
+            {
+              "type": "pubgmc:item",
+              "output": {
+                "item": "pubgmc:m416"
+              },
+              "processors": [
+                {
+                  "type": "pubgmc:attachment_processor",
+                  "attachments": [
+                    {
+                      "attachmentType": "Muzzle",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.3,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:silencer_smg"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Magazine",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.35,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_sniper"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_ar"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Scope",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.2,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:red_dot"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:holographic"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:scope2x"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "pubgmc:ammo_processor"
+                }
+              ]
+            },
+            {
+              "type": "pubgmc:item",
+              "output": {
+                "item": "pubgmc:scar_l"
+              },
+              "processors": [
+                {
+                  "type": "pubgmc:attachment_processor",
+                  "attachments": [
+                    {
+                      "attachmentType": "Muzzle",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.3,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:silencer_smg"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Magazine",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.35,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_sniper"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_ar"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Scope",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.2,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:red_dot"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:holographic"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:scope2x"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "pubgmc:ammo_processor"
+                }
+              ]
+            },
+            {
+              "type": "pubgmc:item",
+              "output": {
+                "item": "pubgmc:g36c"
+              },
+              "processors": [
+                {
+                  "type": "pubgmc:attachment_processor",
+                  "attachments": [
+                    {
+                      "attachmentType": "Muzzle",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.3,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:silencer_smg"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Magazine",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.35,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_sniper"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_ar"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Scope",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.2,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:red_dot"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:holographic"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:scope2x"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "pubgmc:ammo_processor"
+                }
+              ]
+            },
+            {
+              "type": "pubgmc:item",
+              "output": {
+                "item": "pubgmc:qbz"
+              },
+              "processors": [
+                {
+                  "type": "pubgmc:attachment_processor",
+                  "attachments": [
+                    {
+                      "attachmentType": "Muzzle",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.3,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:silencer_smg"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Magazine",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.35,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_sniper"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_ar"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Scope",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.2,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:red_dot"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:holographic"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:scope2x"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "pubgmc:ammo_processor"
+                }
+              ]
+            },
+            {
+              "type": "pubgmc:item",
+              "output": {
+                "item": "pubgmc:akm"
+              },
+              "processors": [
+                {
+                  "type": "pubgmc:attachment_processor",
+                  "attachments": [
+                    {
+                      "attachmentType": "Muzzle",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.3,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:silencer_smg"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Magazine",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.35,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_sniper"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_ar"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Scope",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.2,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:red_dot"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:holographic"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:scope2x"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "pubgmc:ammo_processor"
+                }
+              ]
+            },
+            {
+              "type": "pubgmc:item",
+              "output": {
+                "item": "pubgmc:beryl_m762"
+              },
+              "processors": [
+                {
+                  "type": "pubgmc:attachment_processor",
+                  "attachments": [
+                    {
+                      "attachmentType": "Muzzle",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.3,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:silencer_smg"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Magazine",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.35,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_sniper"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_ar"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Scope",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.2,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:red_dot"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:holographic"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:scope2x"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "pubgmc:ammo_processor"
+                }
+              ]
+            },
+            {
+              "type": "pubgmc:item",
+              "output": {
+                "item": "pubgmc:mk47_mutant"
+              },
+              "processors": [
+                {
+                  "type": "pubgmc:attachment_processor",
+                  "attachments": [
+                    {
+                      "attachmentType": "Muzzle",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.3,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:silencer_smg"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Magazine",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.35,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_sniper"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_ar"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Scope",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.2,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:red_dot"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:holographic"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:scope2x"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "pubgmc:ammo_processor"
+                }
+              ]
+            },
+            {
+              "type": "pubgmc:item",
+              "output": {
+                "item": "pubgmc:dp28"
+              },
+              "processors": [
+                {
+                  "type": "pubgmc:attachment_processor",
+                  "attachments": [
+                    {
+                      "attachmentType": "Muzzle",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.3,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:compensator_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:silencer_smg"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Magazine",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.35,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_ar"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:quickdraw_mag_sniper"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_smg"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:extended_mag_ar"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "attachmentType": "Scope",
+                      "attachmentProvider": {
+                        "type": "pubgmc:random_chance",
+                        "chance": 0.2,
+                        "entry": {
+                          "type": "pubgmc:random_item",
+                          "items": [
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:red_dot"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:holographic"
+                              }
+                            },
+                            {
+                              "type": "pubgmc:item",
+                              "output": {
+                                "item": "pubgmc:scope2x"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "pubgmc:ammo_processor"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "armorLoot": {
+    "type": "pubgmc:multi",
+    "items": [
+      {
+        "type": "pubgmc:random_chance",
+        "chance": 0.3,
+        "entry": {
+          "type": "pubgmc:item",
+          "output": {
+            "item": "pubgmc:armor1helmet"
+          }
+        }
+      },
+      {
+        "type": "pubgmc:random_chance",
+        "chance": 0.5,
+        "entry": {
+          "type": "pubgmc:weighted_item",
+          "items": [
+            {
+              "weight": 70,
+              "entry": {
+                "type": "pubgmc:item",
+                "output": {
+                  "item": "pubgmc:armor1body"
+                }
+              }
+            },
+            {
+              "weight": 30,
+              "entry": {
+                "type": "pubgmc:item",
+                "output": {
+                  "item": "pubgmc:armor2body"
+                }
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "specialEquipmentLoot": {
+    "type": "pubgmc:random_chance",
+    "chance": 0.5,
+    "entry": {
+      "type": "pubgmc:weighted_item",
+      "items": [
+        {
+          "weight": 60,
+          "entry": {
+            "type": "pubgmc:random_item",
+            "items": [
+              {
+                "type": "pubgmc:item",
+                "output": {
+                  "item": "pubgmc:small_backpack_forest"
+                }
+              },
+              {
+                "type": "pubgmc:item",
+                "output": {
+                  "item": "pubgmc:small_backpack_desert"
+                }
+              },
+              {
+                "type": "pubgmc:item",
+                "output": {
+                  "item": "pubgmc:small_backpack_snow"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "weight": 40,
+          "entry": {
+            "type": "pubgmc:random_item",
+            "items": [
+              {
+                "type": "pubgmc:item",
+                "output": {
+                  "item": "pubgmc:medium_backpack_forest"
+                }
+              },
+              {
+                "type": "pubgmc:item",
+                "output": {
+                  "item": "pubgmc:medium_backpack_desert"
+                }
+              },
+              {
+                "type": "pubgmc:item",
+                "output": {
+                  "item": "pubgmc:medium_backpack_snow"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "generalLoot": {
+    "type": "pubgmc:count",
+    "min": 0,
+    "max": 2,
+    "entry": {
+      "type": "pubgmc:random_item",
+      "items": [
+        {
+          "type": "pubgmc:random_item",
+          "items": [
+            {
+              "type": "pubgmc:item",
+              "output": {
+                "item": "pubgmc:bandage",
+                "count": 5
+              }
+            },
+            {
+              "type": "pubgmc:item",
+              "output": {
+                "item": "pubgmc:energydrink"
+              }
+            },
+            {
+              "type": "pubgmc:item",
+              "output": {
+                "item": "pubgmc:painkillers"
+              }
+            }
+          ]
+        },
+        {
+          "type": "pubgmc:random_item",
+          "items": [
+            {
+              "type": "pubgmc:item",
+              "output": {
+                "item": "pubgmc:red_dot"
+              }
+            },
+            {
+              "type": "pubgmc:item",
+              "output": {
+                "item": "pubgmc:holographic"
+              }
+            },
+            {
+              "type": "pubgmc:item",
+              "output": {
+                "item": "pubgmc:quickdraw_mag_smg"
+              }
+            },
+            {
+              "type": "pubgmc:item",
+              "output": {
+                "item": "pubgmc:quickdraw_mag_ar"
+              }
+            },
+            {
+              "type": "pubgmc:item",
+              "output": {
+                "item": "pubgmc:extended_mag_smg"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

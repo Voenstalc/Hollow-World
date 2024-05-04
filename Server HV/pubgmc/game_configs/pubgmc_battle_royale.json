@@ -1,0 +1,63 @@
+{
+  "autoJoin": true,
+  "teamSize": 4,
+  "playzoneGenerationDelay": 2400,
+  "planeSpeed": 1.0,
+  "planeFlightHeight": 256,
+  "entityCount": 64,
+  "allowAi": true,
+  "allowAiCompanions": true,
+  "aiSpawnInterval": 300,
+  "initialAiSpawnDelay": 1200,
+  "zonePhases": [
+    {
+      "scale": 0.65,
+      "damage": 1.0,
+      "interval": 60,
+      "shrinkTime": 2400,
+      "shrinkDelay": 6000
+    },
+    {
+      "scale": 0.75,
+      "damage": 1.0,
+      "interval": 40,
+      "shrinkTime": 1800,
+      "shrinkDelay": 3600
+    },
+    {
+      "scale": 0.75,
+      "damage": 1.0,
+      "interval": 20,
+      "shrinkTime": 1200,
+      "shrinkDelay": 2400
+    },
+    {
+      "scale": 0.5,
+      "damage": 2.0,
+      "interval": 20,
+      "shrinkTime": 800,
+      "shrinkDelay": 1800
+    },
+    {
+      "scale": 0.25,
+      "damage": 3.5,
+      "interval": 20,
+      "shrinkTime": 450,
+      "shrinkDelay": 1200
+    },
+    {
+      "scale": 0.0,
+      "damage": 5.0,
+      "interval": 20,
+      "shrinkTime": 1200,
+      "shrinkDelay": 3600
+    }
+  ],
+  "worldConfig": {
+    "daylightCycle": false,
+    "weatherCycle": false,
+    "dayTime": 5000,
+    "weatherDuration": 1000000,
+    "weatherType": "CLEAR"
+  }
+}

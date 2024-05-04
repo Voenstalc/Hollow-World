@@ -1,0 +1,17 @@
+{
+  "weaponLoot": {
+    "type": "pubgmc:item",
+    "output": {
+      "item": "pubgmc:parachute"
+    }
+  },
+  "armorLoot": {
+    "type": "pubgmc:none"
+  },
+  "specialEquipmentLoot": {
+    "type": "pubgmc:none"
+  },
+  "generalLoot": {
+    "type": "pubgmc:none"
+  }
+}

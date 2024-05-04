@@ -1,0 +1,23 @@
+{
+  "entityCount": 8,
+  "allowAi": true,
+  "gameDuration": 12000,
+  "killTarget": 30,
+  "spawnProtection": 60,
+  "healPerKill": 3,
+  "loadouts": [
+    "ffa/ump45",
+    "ffa/vector",
+    "ffa/akm",
+    "ffa/m416",
+    "ffa/slr",
+    "ffa/m24"
+  ],
+  "worldConfiguration": {
+    "daylightCycle": false,
+    "weatherCycle": false,
+    "dayTime": 5000,
+    "weatherDuration": 1000000,
+    "weatherType": "CLEAR"
+  }
+}

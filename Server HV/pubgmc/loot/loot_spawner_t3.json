@@ -1,0 +1,1012 @@
+{
+  "itemGroupDeclarations": {},
+  "pool": {
+    "type": "pubgmc:count",
+    "min": 2,
+    "max": 4,
+    "entry": {
+      "type": "pubgmc:weighted_item",
+      "items": [
+        {
+          "weight": 8,
+          "entry": {
+            "type": "pubgmc:weighted_item",
+            "items": [
+              {
+                "weight": 2,
+                "entry": {
+                  "type": "pubgmc:item",
+                  "output": {
+                    "item": "pubgmc:bandage",
+                    "count": 5
+                  }
+                }
+              },
+              {
+                "weight": 2,
+                "entry": {
+                  "type": "pubgmc:item",
+                  "output": {
+                    "item": "pubgmc:energydrink"
+                  }
+                }
+              },
+              {
+                "weight": 10,
+                "entry": {
+                  "type": "pubgmc:item",
+                  "output": {
+                    "item": "pubgmc:painkillers"
+                  }
+                }
+              },
+              {
+                "weight": 10,
+                "entry": {
+                  "type": "pubgmc:item",
+                  "output": {
+                    "item": "pubgmc:firstaidkit"
+                  }
+                }
+              },
+              {
+                "weight": 5,
+                "entry": {
+                  "type": "pubgmc:item",
+                  "output": {
+                    "item": "pubgmc:medkit"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "weight": 5,
+          "entry": {
+            "type": "pubgmc:weighted_item",
+            "items": [
+              {
+                "weight": 5,
+                "entry": {
+                  "type": "pubgmc:item",
+                  "output": {
+                    "item": "pubgmc:armor1helmet"
+                  }
+                }
+              },
+              {
+                "weight": 5,
+                "entry": {
+                  "type": "pubgmc:item",
+                  "output": {
+                    "item": "pubgmc:armor1body"
+                  }
+                }
+              },
+              {
+                "weight": 5,
+                "entry": {
+                  "type": "pubgmc:random_item",
+                  "items": [
+                    {
+                      "type": "pubgmc:item",
+                      "output": {
+                        "item": "pubgmc:small_backpack_forest"
+                      }
+                    },
+                    {
+                      "type": "pubgmc:item",
+                      "output": {
+                        "item": "pubgmc:small_backpack_desert"
+                      }
+                    },
+                    {
+                      "type": "pubgmc:item",
+                      "output": {
+                        "item": "pubgmc:small_backpack_snow"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 22,
+                "entry": {
+                  "type": "pubgmc:item",
+                  "output": {
+                    "item": "pubgmc:armor2helmet"
+                  }
+                }
+              },
+              {
+                "weight": 22,
+                "entry": {
+                  "type": "pubgmc:item",
+                  "output": {
+                    "item": "pubgmc:armor2body"
+                  }
+                }
+              },
+              {
+                "weight": 22,
+                "entry": {
+                  "type": "pubgmc:random_item",
+                  "items": [
+                    {
+                      "type": "pubgmc:item",
+                      "output": {
+                        "item": "pubgmc:medium_backpack_forest"
+                      }
+                    },
+                    {
+                      "type": "pubgmc:item",
+                      "output": {
+                        "item": "pubgmc:medium_backpack_desert"
+                      }
+                    },
+                    {
+                      "type": "pubgmc:item",
+                      "output": {
+                        "item": "pubgmc:medium_backpack_snow"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 10,
+                "entry": {
+                  "type": "pubgmc:item",
+                  "output": {
+                    "item": "pubgmc:armor3body"
+                  }
+                }
+              },
+              {
+                "weight": 10,
+                "entry": {
+                  "type": "pubgmc:random_item",
+                  "items": [
+                    {
+                      "type": "pubgmc:item",
+                      "output": {
+                        "item": "pubgmc:large_backpack_forest"
+                      }
+                    },
+                    {
+                      "type": "pubgmc:item",
+                      "output": {
+                        "item": "pubgmc:large_backpack_desert"
+                      }
+                    },
+                    {
+                      "type": "pubgmc:item",
+                      "output": {
+                        "item": "pubgmc:large_backpack_snow"
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "weight": 7,
+          "entry": {
+            "type": "pubgmc:weighted_item",
+            "items": [
+              {
+                "weight": 5,
+                "entry": {
+                  "type": "pubgmc:item",
+                  "output": {
+                    "item": "pubgmc:silencer_smg"
+                  }
+                }
+              },
+              {
+                "weight": 5,
+                "entry": {
+                  "type": "pubgmc:item",
+                  "output": {
+                    "item": "pubgmc:compensator_smg"
+                  }
+                }
+              },
+              {
+                "weight": 5,
+                "entry": {
+                  "type": "pubgmc:item",
+                  "output": {
+                    "item": "pubgmc:red_dot"
+                  }
+                }
+              },
+              {
+                "weight": 5,
+                "entry": {
+                  "type": "pubgmc:item",
+                  "output": {
+                    "item": "pubgmc:holographic"
+                  }
+                }
+              },
+              {
+                "weight": 5,
+                "entry": {
+                  "type": "pubgmc:item",
+                  "output": {
+                    "item": "pubgmc:scope2x"
+                  }
+                }
+              },
+              {
+                "weight": 5,
+                "entry": {
+                  "type": "pubgmc:item",
+                  "output": {
+                    "item": "pubgmc:grip_angled"
+                  }
+                }
+              },
+              {
+                "weight": 5,
+                "entry": {
+                  "type": "pubgmc:item",
+                  "output": {
+                    "item": "pubgmc:quickdraw_mag_smg"
+                  }
+                }
+              },
+              {
+                "weight": 5,
+                "entry": {
+                  "type": "pubgmc:item",
+                  "output": {
+                    "item": "pubgmc:extended_mag_smg"
+                  }
+                }
+              },
+              {
+                "weight": 5,
+                "entry": {
+                  "type": "pubgmc:item",
+                  "output": {
+                    "item": "pubgmc:quickdraw_mag_ar"
+                  }
+                }
+              },
+              {
+                "weight": 5,
+                "entry": {
+                  "type": "pubgmc:item",
+                  "output": {
+                    "item": "pubgmc:bullet_loops"
+                  }
+                }
+              },
+              {
+                "weight": 5,
+                "entry": {
+                  "type": "pubgmc:item",
+                  "output": {
+                    "item": "pubgmc:cheekpad"
+                  }
+                }
+              },
+              {
+                "weight": 25,
+                "entry": {
+                  "type": "pubgmc:item",
+                  "output": {
+                    "item": "pubgmc:silencer_ar"
+                  }
+                }
+              },
+              {
+                "weight": 25,
+                "entry": {
+                  "type": "pubgmc:item",
+                  "output": {
+                    "item": "pubgmc:compensator_ar"
+                  }
+                }
+              },
+              {
+                "weight": 25,
+                "entry": {
+                  "type": "pubgmc:item",
+                  "output": {
+                    "item": "pubgmc:compensator_sniper"
+                  }
+                }
+              },
+              {
+                "weight": 25,
+                "entry": {
+                  "type": "pubgmc:item",
+                  "output": {
+                    "item": "pubgmc:scope4x"
+                  }
+                }
+              },
+              {
+                "weight": 25,
+                "entry": {
+                  "type": "pubgmc:item",
+                  "output": {
+                    "item": "pubgmc:grip_vertical"
+                  }
+                }
+              },
+              {
+                "weight": 25,
+                "entry": {
+                  "type": "pubgmc:item",
+                  "output": {
+                    "item": "pubgmc:extended_quickdraw_mag_smg"
+                  }
+                }
+              },
+              {
+                "weight": 25,
+                "entry": {
+                  "type": "pubgmc:item",
+                  "output": {
+                    "item": "pubgmc:extended_mag_ar"
+                  }
+                }
+              },
+              {
+                "weight": 25,
+                "entry": {
+                  "type": "pubgmc:item",
+                  "output": {
+                    "item": "pubgmc:quickdraw_mag_sniper"
+                  }
+                }
+              },
+              {
+                "weight": 25,
+                "entry": {
+                  "type": "pubgmc:item",
+                  "output": {
+                    "item": "pubgmc:extended_mag_sniper"
+                  }
+                }
+              },
+              {
+                "weight": 15,
+                "entry": {
+                  "type": "pubgmc:item",
+                  "output": {
+                    "item": "pubgmc:silencer_sniper"
+                  }
+                }
+              },
+              {
+                "weight": 15,
+                "entry": {
+                  "type": "pubgmc:item",
+                  "output": {
+                    "item": "pubgmc:extended_quickdraw_mag_ar"
+                  }
+                }
+              },
+              {
+                "weight": 15,
+                "entry": {
+                  "type": "pubgmc:item",
+                  "output": {
+                    "item": "pubgmc:extended_quickdraw_mag_sniper"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "weight": 12,
+          "entry": {
+            "type": "pubgmc:weighted_item",
+            "items": [
+              {
+                "weight": 5,
+                "entry": {
+                  "type": "pubgmc:random_item",
+                  "items": [
+                    {
+                      "type": "pubgmc:item",
+                      "output": {
+                        "item": "pubgmc:p92"
+                      },
+                      "processors": [
+                        {
+                          "type": "pubgmc:ammo_processor",
+                          "count": 15
+                        }
+                      ]
+                    },
+                    {
+                      "type": "pubgmc:item",
+                      "output": {
+                        "item": "pubgmc:p1911"
+                      },
+                      "processors": [
+                        {
+                          "type": "pubgmc:ammo_processor",
+                          "count": 15
+                        }
+                      ]
+                    },
+                    {
+                      "type": "pubgmc:item",
+                      "output": {
+                        "item": "pubgmc:r1895"
+                      },
+                      "processors": [
+                        {
+                          "type": "pubgmc:ammo_processor",
+                          "count": 15
+                        }
+                      ]
+                    },
+                    {
+                      "type": "pubgmc:item",
+                      "output": {
+                        "item": "pubgmc:r45"
+                      },
+                      "processors": [
+                        {
+                          "type": "pubgmc:ammo_processor",
+                          "count": 15
+                        }
+                      ]
+                    },
+                    {
+                      "type": "pubgmc:item",
+                      "output": {
+                        "item": "pubgmc:p18c"
+                      },
+                      "processors": [
+                        {
+                          "type": "pubgmc:ammo_processor",
+                          "count": 15
+                        }
+                      ]
+                    },
+                    {
+                      "type": "pubgmc:item",
+                      "output": {
+                        "item": "pubgmc:scorpion"
+                      },
+                      "processors": [
+                        {
+                          "type": "pubgmc:ammo_processor",
+                          "count": 15
+                        }
+                      ]
+                    },
+                    {
+                      "type": "pubgmc:item",
+                      "output": {
+                        "item": "pubgmc:deagle"
+                      },
+                      "processors": [
+                        {
+                          "type": "pubgmc:ammo_processor",
+                          "count": 15
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 10,
+                "entry": {
+                  "type": "pubgmc:random_item",
+                  "items": [
+                    {
+                      "type": "pubgmc:item",
+                      "output": {
+                        "item": "pubgmc:microuzi"
+                      },
+                      "processors": [
+                        {
+                          "type": "pubgmc:ammo_processor"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "pubgmc:item",
+                      "output": {
+                        "item": "pubgmc:ump45"
+                      },
+                      "processors": [
+                        {
+                          "type": "pubgmc:ammo_processor"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "pubgmc:item",
+                      "output": {
+                        "item": "pubgmc:vector"
+                      },
+                      "processors": [
+                        {
+                          "type": "pubgmc:ammo_processor"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "pubgmc:item",
+                      "output": {
+                        "item": "pubgmc:tommy_gun"
+                      },
+                      "processors": [
+                        {
+                          "type": "pubgmc:ammo_processor"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "pubgmc:item",
+                      "output": {
+                        "item": "pubgmc:bizon"
+                      },
+                      "processors": [
+                        {
+                          "type": "pubgmc:ammo_processor"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "pubgmc:item",
+                      "output": {
+                        "item": "pubgmc:mp5k"
+                      },
+                      "processors": [
+                        {
+                          "type": "pubgmc:ammo_processor"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 10,
+                "entry": {
+                  "type": "pubgmc:random_item",
+                  "items": [
+                    {
+                      "type": "pubgmc:item",
+                      "output": {
+                        "item": "pubgmc:win94"
+                      },
+                      "processors": [
+                        {
+                          "type": "pubgmc:ammo_processor",
+                          "count": 15
+                        }
+                      ]
+                    },
+                    {
+                      "type": "pubgmc:item",
+                      "output": {
+                        "item": "pubgmc:sawed_off"
+                      },
+                      "processors": [
+                        {
+                          "type": "pubgmc:ammo_processor",
+                          "count": 10
+                        }
+                      ]
+                    },
+                    {
+                      "type": "pubgmc:item",
+                      "output": {
+                        "item": "pubgmc:s1897"
+                      },
+                      "processors": [
+                        {
+                          "type": "pubgmc:ammo_processor",
+                          "count": 10
+                        }
+                      ]
+                    },
+                    {
+                      "type": "pubgmc:item",
+                      "output": {
+                        "item": "pubgmc:s686"
+                      },
+                      "processors": [
+                        {
+                          "type": "pubgmc:ammo_processor",
+                          "count": 10
+                        }
+                      ]
+                    },
+                    {
+                      "type": "pubgmc:item",
+                      "output": {
+                        "item": "pubgmc:s12k"
+                      },
+                      "processors": [
+                        {
+                          "type": "pubgmc:ammo_processor",
+                          "count": 10
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 75,
+                "entry": {
+                  "type": "pubgmc:random_item",
+                  "items": [
+                    {
+                      "type": "pubgmc:item",
+                      "output": {
+                        "item": "pubgmc:m16a4"
+                      },
+                      "processors": [
+                        {
+                          "type": "pubgmc:ammo_processor"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "pubgmc:item",
+                      "output": {
+                        "item": "pubgmc:m416"
+                      },
+                      "processors": [
+                        {
+                          "type": "pubgmc:ammo_processor"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "pubgmc:item",
+                      "output": {
+                        "item": "pubgmc:scar_l"
+                      },
+                      "processors": [
+                        {
+                          "type": "pubgmc:ammo_processor"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "pubgmc:item",
+                      "output": {
+                        "item": "pubgmc:g36c"
+                      },
+                      "processors": [
+                        {
+                          "type": "pubgmc:ammo_processor"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "pubgmc:item",
+                      "output": {
+                        "item": "pubgmc:qbz"
+                      },
+                      "processors": [
+                        {
+                          "type": "pubgmc:ammo_processor"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "pubgmc:item",
+                      "output": {
+                        "item": "pubgmc:akm"
+                      },
+                      "processors": [
+                        {
+                          "type": "pubgmc:ammo_processor"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "pubgmc:item",
+                      "output": {
+                        "item": "pubgmc:beryl_m762"
+                      },
+                      "processors": [
+                        {
+                          "type": "pubgmc:ammo_processor"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "pubgmc:item",
+                      "output": {
+                        "item": "pubgmc:mk47_mutant"
+                      },
+                      "processors": [
+                        {
+                          "type": "pubgmc:ammo_processor"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "pubgmc:item",
+                      "output": {
+                        "item": "pubgmc:dp28"
+                      },
+                      "processors": [
+                        {
+                          "type": "pubgmc:ammo_processor"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 55,
+                "entry": {
+                  "type": "pubgmc:random_item",
+                  "items": [
+                    {
+                      "type": "pubgmc:item",
+                      "output": {
+                        "item": "pubgmc:vss"
+                      },
+                      "processors": [
+                        {
+                          "type": "pubgmc:ammo_processor"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "pubgmc:item",
+                      "output": {
+                        "item": "pubgmc:mini14"
+                      },
+                      "processors": [
+                        {
+                          "type": "pubgmc:ammo_processor"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "pubgmc:item",
+                      "output": {
+                        "item": "pubgmc:qbu"
+                      },
+                      "processors": [
+                        {
+                          "type": "pubgmc:ammo_processor"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "pubgmc:item",
+                      "output": {
+                        "item": "pubgmc:sks"
+                      },
+                      "processors": [
+                        {
+                          "type": "pubgmc:ammo_processor"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "pubgmc:item",
+                      "output": {
+                        "item": "pubgmc:slr"
+                      },
+                      "processors": [
+                        {
+                          "type": "pubgmc:ammo_processor"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 40,
+                "entry": {
+                  "type": "pubgmc:random_item",
+                  "items": [
+                    {
+                      "type": "pubgmc:item",
+                      "output": {
+                        "item": "pubgmc:kar98k"
+                      },
+                      "processors": [
+                        {
+                          "type": "pubgmc:ammo_processor",
+                          "count": 15
+                        }
+                      ]
+                    },
+                    {
+                      "type": "pubgmc:item",
+                      "output": {
+                        "item": "pubgmc:m24"
+                      },
+                      "processors": [
+                        {
+                          "type": "pubgmc:ammo_processor",
+                          "count": 15
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 1,
+                "entry": {
+                  "type": "pubgmc:random_item",
+                  "items": [
+                    {
+                      "type": "pubgmc:item",
+                      "output": {
+                        "item": "pubgmc:flare_gun"
+                      },
+                      "processors": [
+                        {
+                          "type": "pubgmc:ammo_processor",
+                          "count": 1,
+                          "maxPacks": 1
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "weight": 0,
+          "entry": {
+            "type": "pubgmc:weighted_item",
+            "items": [
+              {
+                "weight": 10,
+                "entry": {
+                  "type": "pubgmc:item",
+                  "output": {
+                    "item": "pubgmc:ammo_9mm",
+                    "count": 30
+                  }
+                }
+              },
+              {
+                "weight": 10,
+                "entry": {
+                  "type": "pubgmc:item",
+                  "output": {
+                    "item": "pubgmc:ammo_45acp",
+                    "count": 30
+                  }
+                }
+              },
+              {
+                "weight": 10,
+                "entry": {
+                  "type": "pubgmc:item",
+                  "output": {
+                    "item": "pubgmc:ammo_shotgun",
+                    "count": 10
+                  }
+                }
+              },
+              {
+                "weight": 5,
+                "entry": {
+                  "type": "pubgmc:item",
+                  "output": {
+                    "item": "pubgmc:ammo_556",
+                    "count": 30
+                  }
+                }
+              },
+              {
+                "weight": 3,
+                "entry": {
+                  "type": "pubgmc:item",
+                  "output": {
+                    "item": "pubgmc:ammo_762",
+                    "count": 30
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "weight": 5,
+          "entry": {
+            "type": "pubgmc:random_item",
+            "items": [
+              {
+                "type": "pubgmc:item",
+                "output": {
+                  "item": "pubgmc:grenade"
+                }
+              },
+              {
+                "type": "pubgmc:item",
+                "output": {
+                  "item": "pubgmc:smoke"
+                }
+              },
+              {
+                "type": "pubgmc:item",
+                "output": {
+                  "item": "pubgmc:molotov"
+                }
+              },
+              {
+                "type": "pubgmc:item",
+                "output": {
+                  "item": "pubgmc:flashbang"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "weight": 1,
+          "entry": {
+            "type": "pubgmc:random_item",
+            "items": [
+              {
+                "type": "pubgmc:item",
+                "output": {
+                  "item": "pubgmc:fuelcan"
+                }
+              },
+              {
+                "type": "pubgmc:item",
+                "output": {
+                  "item": "pubgmc:nv_goggles"
+                }
+              },
+              {
+                "type": "pubgmc:item",
+                "output": {
+                  "item": "pubgmc:pan"
+                }
+              },
+              {
+                "type": "pubgmc:item",
+                "output": {
+                  "item": "pubgmc:machete"
+                }
+              },
+              {
+                "type": "pubgmc:item",
+                "output": {
+                  "item": "pubgmc:sickle"
+                }
+              },
+              {
+                "type": "pubgmc:item",
+                "output": {
+                  "item": "pubgmc:crowbar"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

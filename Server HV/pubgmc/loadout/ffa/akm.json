@@ -1,0 +1,72 @@
+{
+  "name": "AKM",
+  "icon": {
+    "item": "pubgmc:akm",
+    "count": 1,
+    "metadata": 0
+  },
+  "weaponLoot": {
+    "type": "pubgmc:item",
+    "output": {
+      "item": "pubgmc:akm"
+    },
+    "processors": [
+      {
+        "type": "pubgmc:attachment_processor",
+        "attachments": [
+          {
+            "attachmentType": "Muzzle",
+            "attachmentProvider": {
+              "type": "pubgmc:item",
+              "output": {
+                "item": "pubgmc:compensator_ar"
+              }
+            }
+          },
+          {
+            "attachmentType": "Scope",
+            "attachmentProvider": {
+              "type": "pubgmc:item",
+              "output": {
+                "item": "pubgmc:holographic"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "type": "pubgmc:weapon_ammo_processor",
+        "min": 1.0,
+        "max": 1.0
+      },
+      {
+        "type": "pubgmc:ammo_processor",
+        "count": 60,
+        "minPacks": 3
+      }
+    ]
+  },
+  "armorLoot": {
+    "type": "pubgmc:multi",
+    "items": [
+      {
+        "type": "pubgmc:item",
+        "output": {
+          "item": "pubgmc:armor2body"
+        }
+      },
+      {
+        "type": "pubgmc:item",
+        "output": {
+          "item": "pubgmc:armor1helmet"
+        }
+      }
+    ]
+  },
+  "specialEquipmentLoot": {
+    "type": "pubgmc:none"
+  },
+  "generalLoot": {
+    "type": "pubgmc:none"
+  }
+}

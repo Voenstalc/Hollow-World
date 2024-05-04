@@ -1,0 +1,240 @@
+{
+  "itemGroupDeclarations": {},
+  "pool": {
+    "type": "pubgmc:multi",
+    "items": [
+      {
+        "type": "pubgmc:random_item",
+        "items": [
+          {
+            "type": "pubgmc:item",
+            "output": {
+              "item": "pubgmc:aug"
+            },
+            "processors": [
+              {
+                "type": "pubgmc:ammo_processor"
+              }
+            ]
+          },
+          {
+            "type": "pubgmc:item",
+            "output": {
+              "item": "pubgmc:groza"
+            },
+            "processors": [
+              {
+                "type": "pubgmc:ammo_processor"
+              }
+            ]
+          },
+          {
+            "type": "pubgmc:item",
+            "output": {
+              "item": "pubgmc:m249"
+            },
+            "processors": [
+              {
+                "type": "pubgmc:ammo_processor",
+                "count": 50,
+                "minPacks": 2,
+                "maxPacks": 4
+              }
+            ]
+          },
+          {
+            "type": "pubgmc:item",
+            "output": {
+              "item": "pubgmc:mk14"
+            },
+            "processors": [
+              {
+                "type": "pubgmc:ammo_processor"
+              }
+            ]
+          },
+          {
+            "type": "pubgmc:item",
+            "output": {
+              "item": "pubgmc:awm"
+            },
+            "processors": [
+              {
+                "type": "pubgmc:ammo_processor",
+                "count": 10,
+                "minPacks": 2,
+                "maxPacks": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "pubgmc:item",
+        "output": {
+          "item": "pubgmc:armor3helmet"
+        }
+      },
+      {
+        "type": "pubgmc:random_chance",
+        "chance": 0.7,
+        "entry": {
+          "type": "pubgmc:item",
+          "output": {
+            "item": "pubgmc:armor3body"
+          }
+        }
+      },
+      {
+        "type": "pubgmc:random_chance",
+        "chance": 0.6,
+        "entry": {
+          "type": "pubgmc:random_item",
+          "items": [
+            {
+              "type": "pubgmc:item",
+              "output": {
+                "item": "pubgmc:large_backpack_forest"
+              }
+            },
+            {
+              "type": "pubgmc:item",
+              "output": {
+                "item": "pubgmc:large_backpack_desert"
+              }
+            },
+            {
+              "type": "pubgmc:item",
+              "output": {
+                "item": "pubgmc:large_backpack_snow"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "pubgmc:random_chance",
+        "chance": 0.25,
+        "entry": {
+          "type": "pubgmc:item",
+          "output": {
+            "item": "pubgmc:ghillie_suit"
+          },
+          "processors": [
+            {
+              "type": "pubgmc:ghillie_color_processor",
+              "colorProviderType": "BIOME"
+            }
+          ]
+        }
+      },
+      {
+        "type": "pubgmc:count",
+        "min": 1,
+        "max": 2,
+        "entry": {
+          "type": "pubgmc:random_chance",
+          "chance": 0.4,
+          "entry": {
+            "type": "pubgmc:random_item",
+            "items": [
+              {
+                "type": "pubgmc:item",
+                "output": {
+                  "item": "pubgmc:scope15x"
+                }
+              },
+              {
+                "type": "pubgmc:item",
+                "output": {
+                  "item": "pubgmc:scope8x"
+                }
+              },
+              {
+                "type": "pubgmc:item",
+                "output": {
+                  "item": "pubgmc:silencer_sniper"
+                }
+              },
+              {
+                "type": "pubgmc:item",
+                "output": {
+                  "item": "pubgmc:silencer_ar"
+                }
+              },
+              {
+                "type": "pubgmc:item",
+                "output": {
+                  "item": "pubgmc:compensator_ar"
+                }
+              },
+              {
+                "type": "pubgmc:item",
+                "output": {
+                  "item": "pubgmc:compensator_sniper"
+                }
+              },
+              {
+                "type": "pubgmc:item",
+                "output": {
+                  "item": "pubgmc:extended_quickdraw_mag_sniper"
+                }
+              },
+              {
+                "type": "pubgmc:item",
+                "output": {
+                  "item": "pubgmc:extended_quickdraw_mag_ar"
+                }
+              },
+              {
+                "type": "pubgmc:item",
+                "output": {
+                  "item": "pubgmc:extended_mag_sniper"
+                }
+              },
+              {
+                "type": "pubgmc:item",
+                "output": {
+                  "item": "pubgmc:extended_mag_ar"
+                }
+              },
+              {
+                "type": "pubgmc:item",
+                "output": {
+                  "item": "pubgmc:quickdraw_mag_sniper"
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "type": "pubgmc:random_chance",
+        "chance": 0.5,
+        "entry": {
+          "type": "pubgmc:random_item",
+          "items": [
+            {
+              "type": "pubgmc:item",
+              "output": {
+                "item": "pubgmc:medkit"
+              }
+            },
+            {
+              "type": "pubgmc:item",
+              "output": {
+                "item": "pubgmc:firstaidkit"
+              }
+            },
+            {
+              "type": "pubgmc:item",
+              "output": {
+                "item": "pubgmc:adrenalinesyringe"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

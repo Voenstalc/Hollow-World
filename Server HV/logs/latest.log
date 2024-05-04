@@ -1,0 +1,1058 @@
+[10:18:20] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[10:18:20] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[10:18:20] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[10:18:20] [main/INFO]: Forge Mod Loader version 14.23.5.2859 for Minecraft 1.12.2 loading
+[10:18:20] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 10:amd64:10.0, installed at C:\Users\Voenstalc\AppData\Roaming\.minecraft\runtime\jre-legacy\windows\jre-legacy
+[10:18:20] [main/INFO]: Searching C:\Users\Voenstalc\AppData\Roaming\.minecraft\versions\Server HV\mods for mods
+[10:18:20] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in HardcoreDarkness_MC1.12_1.9.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[10:18:20] [main/WARN]: The coremod lumien.hardcoredarkness.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[10:18:20] [main/WARN]: The coremod LoadingPlugin (lumien.hardcoredarkness.asm.LoadingPlugin) is not signed!
+[10:18:20] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in mw_2.0-0.4.6.2_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[10:18:20] [main/WARN]: The coremod weaponlib (com.vicmatskiv.weaponlib.core.WeaponlibCorePlugin) is not signed!
+[10:18:20] [main/INFO]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine-OptiFine-1.12.2_HD_U_G5.jar
+[10:18:20] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in pubgmc-1.9.6-1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[10:18:20] [main/WARN]: The coremod PMCPlugin (dev.toma.pubgmc.asm.PMCPlugin) is not signed!
+[10:18:20] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in tlskincape1.12.2-1.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[10:18:20] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[10:18:20] [main/INFO]: Loading tweak class name optifine.OptiFineForgeTweaker
+[10:18:20] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[10:18:20] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[10:18:20] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[10:18:20] [main/INFO]: Calling tweak class optifine.OptiFineForgeTweaker
+[10:18:20] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[10:18:20] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: injectIntoClassLoader
+[10:18:20] [main/INFO]: [optifine.OptiFineClassTransformer:dbg:242]: OptiFine ClassTransformer
+[10:18:20] [main/INFO]: [optifine.OptiFineClassTransformer:dbg:242]: OptiFine ZIP file: C:\Users\Voenstalc\AppData\Roaming\.minecraft\versions\Server HV\mods\OptiFine-OptiFine-1.12.2_HD_U_G5.jar
+[10:18:20] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[10:18:21] [main/INFO]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[10:18:21] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[10:18:21] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[10:18:21] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[10:18:21] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[10:18:21] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container gloomyfolken.hooklib.minecraft.SecondaryTransformerHook
+[10:18:21] [main/INFO]: [HOOKLIB]  Obfuscated: true
+[10:18:21] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container org.tlauncher.skin.cape.asm.TLSkinCapeHooks
+[10:18:21] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[10:18:21] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.minecraftforge.fml.common.Loader
+[10:18:21] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraftforge.fml.common.Loader#injectData([Ljava/lang/Object;)
+[10:18:22] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Methods dictionary loaded in 4 ms
+[10:18:22] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[10:18:22] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[10:18:22] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[10:18:22] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[10:18:22] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[10:18:22] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[10:18:22] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.minecraft.client.entity.AbstractClientPlayer
+[10:18:22] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraft.client.entity.AbstractClientPlayer#getLocationSkin()Lnet/minecraft/util/ResourceLocation;
+[10:18:22] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraft.client.entity.AbstractClientPlayer#getLocationCape()Lnet/minecraft/util/ResourceLocation;
+[10:18:22] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraft.client.entity.AbstractClientPlayer#getSkinType()
+[10:18:22] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.minecraft.entity.player.EntityPlayer
+[10:18:22] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraft.entity.player.EntityPlayer#isWearing(Lnet/minecraft/entity/player/EnumPlayerModelParts;)
+[10:18:23] [main/INFO]: Preparing injection into 'net.minecraftforge.client.ForgeHooksClient'
+[10:18:23] [main/INFO]: Injecting hook into handlePerspective method
+[10:18:23] [main/INFO]: Injection successful
+[10:18:23] [Client thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[10:18:23] [Client thread/INFO]: Setting user: voenstalc
+[10:18:25] [Client thread/INFO]: [OptiFine] *** Reflector Forge ***
+[10:18:25] [Client thread/INFO]: [OptiFine] *** Reflector Vanilla ***
+[10:18:25] [Client thread/INFO]: Preparing injection into 'net.minecraft.client.model.ModelBiped'
+[10:18:25] [Client thread/INFO]: Injecting hook into func_78087_a method
+[10:18:25] [Client thread/INFO]: Injection successful
+[10:18:25] [Client thread/INFO]: LWJGL Version: 2.9.4
+[10:18:26] [Client thread/INFO]: [OptiFine] 
+[10:18:26] [Client thread/INFO]: [OptiFine] OptiFine_1.12.2_HD_U_G5
+[10:18:26] [Client thread/INFO]: [OptiFine] Build: 20210124-142939
+[10:18:26] [Client thread/INFO]: [OptiFine] OS: Windows 10 (amd64) version 10.0
+[10:18:26] [Client thread/INFO]: [OptiFine] Java: 1.8.0_51, Oracle Corporation
+[10:18:26] [Client thread/INFO]: [OptiFine] VM: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+[10:18:26] [Client thread/INFO]: [OptiFine] LWJGL: 2.9.4
+[10:18:26] [Client thread/INFO]: [OptiFine] OpenGL: NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2, version 4.6.0 NVIDIA 517.48, NVIDIA Corporation
+[10:18:26] [Client thread/INFO]: [OptiFine] OpenGL Version: 4.6.0
+[10:18:26] [Client thread/INFO]: [OptiFine] Maximum texture size: 32768x32768
+[10:18:26] [VersionCheck/INFO]: [OptiFine] Checking for new version
+[10:18:26] [Client thread/INFO]: [Shaders] OpenGL Version: 4.6.0 NVIDIA 517.48
+[10:18:26] [Client thread/INFO]: [Shaders] Vendor:  NVIDIA Corporation
+[10:18:26] [Client thread/INFO]: [Shaders] Renderer: NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2
+[10:18:26] [Client thread/INFO]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
+[10:18:26] [Client thread/INFO]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[10:18:26] [Client thread/INFO]: [Shaders] GL_MAX_COLOR_ATTACHMENTS_EXT: 8
+[10:18:26] [Client thread/INFO]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[10:18:26] [Client thread/INFO]: [Shaders] Load shaders configuration.
+[10:18:26] [Client thread/INFO]: [Shaders] Save shaders configuration.
+[10:18:26] [Client thread/INFO]: [Shaders] No shaderpack loaded.
+[10:18:26] [Client thread/INFO]: [OptiFine] [Shaders] Delayed loading of block mappings after resources are loaded
+[10:18:26] [Client thread/INFO]: [OptiFine] [Shaders] Delayed loading of item mappings after resources are loaded
+[10:18:26] [Client thread/INFO]: [OptiFine] [Shaders] Delayed loading of entity mappings after resources are loaded
+[10:18:26] [Client thread/INFO]: Forge Mod Loader has detected optifine OptiFine_1.12.2_HD_U_G5, enabling compatibility features
+[10:18:26] [Client thread/INFO]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_51, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 251860032 bytes (240 MB) / 536870912 bytes (512 MB) up to 13824425984 bytes (13184 MB)
+	JVM Flags: 7 total; -Xmx13156M -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+LoadingPlugin (HardcoreDarkness_MC1.12_1.9.jar)
+  lumien.hardcoredarkness.asm.ClassTransformer
+weaponlib (mw_2.0-0.4.6.2_mc1.12.2.jar)
+  com.vicmatskiv.weaponlib.core.WeaponlibClassTransformer
+TLSkinCapeHookLoader (tlskincape1.12.2-1.4.jar)
+  gloomyfolken.hooklib.minecraft.PrimaryClassTransformer
+PMCPlugin (pubgmc-1.9.6-1.12.2.jar)
+  dev.toma.pubgmc.asm.PMCClassTransformer
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 517.48' Renderer: 'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
+[10:18:26] [Client thread/INFO]: MinecraftForge v14.23.5.2859 Initialized
+[10:18:26] [Client thread/INFO]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[10:18:26] [Client thread/INFO]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[10:18:26] [Client thread/INFO]: Replaced 1227 ore ingredients
+[10:18:26] [VersionCheck/INFO]: [OptiFine] Version found: G5
+[10:18:26] [Client thread/INFO]: Searching C:\Users\Voenstalc\AppData\Roaming\.minecraft\versions\Server HV\mods for mods
+[10:18:27] [Client thread/INFO]: Forge Mod Loader has identified 16 mods to load
+[10:18:27] [Client thread/INFO]: FML has found a non-mod file plumepackww1-01.08.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[10:18:28] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, artifacts, baubles, configuration, customnpcs, hardcoredarkness, djumpplates, mw, pubgmc, roughtweaks, soviet, tinyinv, tlauncher_custom_cape_skin] at CLIENT
+[10:18:28] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, artifacts, baubles, configuration, customnpcs, hardcoredarkness, djumpplates, mw, pubgmc, roughtweaks, soviet, tinyinv, tlauncher_custom_cape_skin] at SERVER
+[10:18:28] [Client thread/INFO]: Added configuration plugin into FileTracker
+[10:18:28] [Client thread/INFO]: Added pubgmc plugin into FileTracker
+[10:18:29] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Artifacts, FMLFileResourcePack:Baubles, FMLFileResourcePack:Configuration, FMLFileResourcePack:CustomNPCs, FMLFileResourcePack:Hardcore Darkness, FMLFileResourcePack:Jump Plates, FMLFileResourcePack:Modern Warfare 2.0 Contagion, FMLFileResourcePack:PUBGMC, FMLFileResourcePack:Rough Tweaks, FMLFileResourcePack:Soviet Era Mod, FMLFileResourcePack:Tiny Inv, FMLFileResourcePack:TLSkinCape
+[10:18:29] [Client thread/INFO]: Processing ObjectHolder annotations
+[10:18:29] [Client thread/INFO]: Found 1305 ObjectHolder annotations
+[10:18:29] [Client thread/INFO]: Identifying ItemStackHolder annotations
+[10:18:29] [Client thread/INFO]: Found 0 ItemStackHolder annotations
+[10:18:29] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[10:18:29] [Forge Version Check/INFO]: [artifacts] Starting version check at https://raw.githubusercontent.com/ochotonida/artifacts/1.12/update.json
+[10:18:29] [Forge Version Check/INFO]: [configuration] Starting version check at https://raw.githubusercontent.com/Toma1O6/Configuration/master/versions.json
+[10:18:29] [Forge Version Check/INFO]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[10:18:29] [Client thread/INFO]: [com.vicmatskiv.weaponlib.config.ConfigurationManager$Builder:createConfiguration:109]: Failed to parse configuration: javax.xml.bind.UnmarshalException
+ - with linked exception:
+[java.io.FileNotFoundException: C:\Users\Voenstalc\AppData\Roaming\.minecraft\versions\Server HV\config\ModernWarfare.cfg (Не удается найти указанный файл)]
+[10:18:30] [Client thread/ERROR]: Couldn't get a list of all built-in mission files
+java.nio.file.NoSuchFileException: /assets/mw/missions
+	at com.sun.nio.zipfs.ZipPath.getAttributes(ZipPath.java:666) ~[zipfs.jar:1.8.0_51]
+	at com.sun.nio.zipfs.ZipFileSystemProvider.readAttributes(ZipFileSystemProvider.java:294) ~[zipfs.jar:1.8.0_51]
+	at java.nio.file.Files.readAttributes(Files.java:1737) ~[?:1.8.0_51]
+	at java.nio.file.FileTreeWalker.getAttributes(FileTreeWalker.java:219) ~[?:1.8.0_51]
+	at java.nio.file.FileTreeWalker.visit(FileTreeWalker.java:276) ~[?:1.8.0_51]
+	at java.nio.file.FileTreeWalker.walk(FileTreeWalker.java:322) ~[?:1.8.0_51]
+	at java.nio.file.FileTreeIterator.<init>(FileTreeIterator.java:72) ~[?:1.8.0_51]
+	at java.nio.file.Files.walk(Files.java:3574) ~[?:1.8.0_51]
+	at java.nio.file.Files.walk(Files.java:3625) ~[?:1.8.0_51]
+	at com.vicmatskiv.weaponlib.mission.MissionManager.loadBuiltInMissionOfferings(MissionManager.java:180) [MissionManager.class:?]
+	at com.vicmatskiv.weaponlib.mission.MissionManager.reload(MissionManager.java:88) [MissionManager.class:?]
+	at com.vicmatskiv.weaponlib.mission.MissionManager.<init>(MissionManager.java:83) [MissionManager.class:?]
+	at com.vicmatskiv.weaponlib.CommonModContext.preInit(CommonModContext.java:387) [CommonModContext.class:?]
+	at com.vicmatskiv.weaponlib.ClientModContext.preInit(ClientModContext.java:82) [ClientModContext.class:?]
+	at com.vicmatskiv.mw.CommonProxy.preInit(CommonProxy.java:54) [CommonProxy.class:?]
+	at com.vicmatskiv.mw.ClientProxy.preInit(ClientProxy.java:26) [ClientProxy.class:?]
+	at com.vicmatskiv.mw.ModernWarfareMod.init(ModernWarfareMod.java:75) [ModernWarfareMod.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637) [FMLModContainer.class:?]
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [guava-21.0.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [guava-21.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [guava-21.0.jar:?]
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219) [LoadController.class:?]
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197) [LoadController.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [guava-21.0.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [guava-21.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [guava-21.0.jar:?]
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136) [LoadController.class:?]
+	at net.minecraftforge.fml.common.Loader.preinitializeMods(Loader.java:629) [Loader.class:?]
+	at net.minecraftforge.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:252) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:467) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+[10:18:30] [Client thread/INFO]: Preparing injection into 'net.minecraft.client.renderer.entity.RenderPlayer'
+[10:18:30] [Client thread/INFO]: Injecting hook into <init> method
+[10:18:30] [Client thread/INFO]: Injection successful
+[10:18:30] [Client thread/INFO]: Injecting hook into func_77041_b method
+[10:18:30] [Client thread/INFO]: Injection successful
+[10:18:30] [Thread-3/INFO]: Using alternative sync timing : 200 frames of Display.update took 3401910790 nanos
+[10:18:30] [Forge Version Check/INFO]: [pubgmc] Starting version check at https://raw.githubusercontent.com/Toma1O6/PUBGMC/master/update.json
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment G36KScope
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment Leupold
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment PSO1
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment okp7
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment Reflex
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment BijiaReflex
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment MicroReflex
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment Acog
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment Specter
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment Holographic2
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment HolographicAlt
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment EotechHybrid2
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment VortexSight
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment MicroT1
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment AimpointCompM5
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment RMRsight
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment Kobra
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment KobraGen3
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment HPScope
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment LeupoldRailScope
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment AX50Scope
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment NightRaiderScope
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment m2a1_sight
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment F2000Scope
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment M202scope
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment AUGscope
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment OSIPRMiniScope
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment OSIPRSight
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment MA5Dcover
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment BR55scope
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment DMRscope
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment SRS99Scope
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment Silencer556x45
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment Silencer545x39
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment Silencer762x39
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment SilencerPBS
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment Silencer9mm
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment SilencerMP5
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment Silencer9x39mm
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment Silencer45ACP
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment silencer_eabh
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment Silencer762x54
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment Silencer762x51
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment Silencer50BMG
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment Silencer556x39
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment AKMIron
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment TritiumRearSights
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment MBUSRearSights
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment HK416RearSights
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment FNFALRearSights
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment K2C1RearSight
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment ScorpionRearSight
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment AK15ironsight
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment SilencerMP7
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment Silencer357
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment Silencer57x38
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment Silencer12Gauge
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment Silencer300AACBlackout
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment HoneyBadgerSilencer
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment Silencer65x39
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment Laser
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment Laser2
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment DanWessonLaser
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment OSIPRLaser
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment M1928Grip
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment M1A1Grip
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment Grip2
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment JunoGrip
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment AngledGrip
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment StubbyGrip
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment VGrip
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment Bipod
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment AUGgrip
+[10:18:32] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment USPMatchCompensator
+[10:18:33] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment AR15Iron
+[10:18:33] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment PlasmaCapsule
+[10:18:33] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment BFGammo
+[10:18:34] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment FuelCell
+[10:18:34] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment socom_mag
+[10:18:34] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment C8Mag
+[10:18:34] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment AK74Mag
+[10:18:34] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment AKMVulcanMag
+[10:18:34] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment M17Mag
+[10:18:34] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment MakarovMag
+[10:18:34] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment P2022Mag
+[10:18:34] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment USP45Mag
+[10:18:35] [Client thread/INFO]: [com.vicmatskiv.weaponlib.Weapon$Builder:build:917]: !!!No recipe defined for weapon socom_m4a1
+[10:18:35] [Client thread/INFO]: [com.vicmatskiv.weaponlib.Weapon$Builder:build:917]: !!!No recipe defined for weapon m17
+[10:18:35] [Client thread/INFO]: [com.vicmatskiv.weaponlib.Weapon$Builder:build:917]: !!!No recipe defined for weapon asiimov_m4a1
+[10:18:35] [Client thread/INFO]: [com.vicmatskiv.weaponlib.Weapon$Builder:build:917]: !!!No recipe defined for weapon hk_g95
+[10:18:35] [Client thread/INFO]: [com.vicmatskiv.weaponlib.Weapon$Builder:build:917]: !!!No recipe defined for weapon hk_p12
+[10:18:35] [Client thread/INFO]: [com.vicmatskiv.weaponlib.Weapon$Builder:build:917]: !!!No recipe defined for weapon hk_416
+[10:18:35] [Client thread/INFO]: [com.vicmatskiv.weaponlib.Weapon$Builder:build:917]: !!!No recipe defined for weapon sa80
+[10:18:35] [Client thread/INFO]: [com.vicmatskiv.weaponlib.Weapon$Builder:build:917]: !!!No recipe defined for weapon l131a1
+[10:18:35] [Client thread/INFO]: [com.vicmatskiv.weaponlib.Weapon$Builder:build:917]: !!!No recipe defined for weapon mp7a1
+[10:18:35] [Client thread/INFO]: [com.vicmatskiv.weaponlib.Weapon$Builder:build:917]: !!!No recipe defined for weapon p2022
+[10:18:35] [Client thread/INFO]: [com.vicmatskiv.weaponlib.Weapon$Builder:build:917]: !!!No recipe defined for weapon mp7_black_ice
+[10:18:35] [Client thread/INFO]: [com.vicmatskiv.weaponlib.Weapon$Builder:build:917]: !!!No recipe defined for weapon c8_sfw
+[10:18:35] [Client thread/INFO]: [com.vicmatskiv.weaponlib.Weapon$Builder:build:917]: !!!No recipe defined for weapon kalashnikov_ak12
+[10:18:35] [Client thread/INFO]: [com.vicmatskiv.weaponlib.Weapon$Builder:build:917]: !!!No recipe defined for weapon mp443_grach
+[10:18:35] [Client thread/INFO]: [com.vicmatskiv.weaponlib.Weapon$Builder:build:917]: !!!No recipe defined for weapon ax50
+[10:18:35] [Client thread/INFO]: [com.vicmatskiv.weaponlib.Weapon$Builder:build:917]: !!!No recipe defined for weapon ak74
+[10:18:35] [Client thread/INFO]: [com.vicmatskiv.weaponlib.Weapon$Builder:build:917]: !!!No recipe defined for weapon makarov_pm
+[10:18:36] [Client thread/INFO]: [com.vicmatskiv.weaponlib.Weapon$Builder:build:917]: !!!No recipe defined for weapon akm_vulcan
+[10:18:36] [Client thread/INFO]: [com.vicmatskiv.weaponlib.Weapon$Builder:build:917]: !!!No recipe defined for weapon cz805_bren_s1
+[10:18:36] [Client thread/INFO]: [com.vicmatskiv.weaponlib.Weapon$Builder:build:917]: !!!No recipe defined for weapon cz805_bren_a1
+[10:18:36] [Client thread/INFO]: [com.vicmatskiv.weaponlib.Weapon$Builder:build:917]: !!!No recipe defined for weapon remington_700
+[10:18:37] [Client thread/INFO]: [com.vicmatskiv.weaponlib.Weapon$Builder:build:917]: !!!No recipe defined for weapon ssg_08
+[10:18:37] [Client thread/INFO]: [com.vicmatskiv.weaponlib.Weapon$Builder:build:917]: !!!No recipe defined for weapon pgm_hecate_ii
+[10:18:38] [Client thread/INFO]: [com.vicmatskiv.weaponlib.Weapon$Builder:build:917]: !!!No recipe defined for weapon bfg_9000
+[10:18:38] [Client thread/INFO]: [com.vicmatskiv.weaponlib.Weapon$Builder:build:917]: !!!No recipe defined for weapon chainsaw
+[10:18:38] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment tablet
+[10:18:38] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment gas-detector
+[10:18:38] [Client thread/INFO]: [com.vicmatskiv.weaponlib.grenade.ItemGrenade$Builder:build:387]: !!!No recipe defined for grenade M67Frag
+[10:18:38] [Client thread/INFO]: [com.vicmatskiv.weaponlib.grenade.ItemGrenade$Builder:build:387]: !!!No recipe defined for grenade ImpactGrenade
+[10:18:38] [Client thread/INFO]: [com.vicmatskiv.weaponlib.grenade.ItemGrenade$Builder:build:387]: !!!No recipe defined for grenade M18White
+[10:18:38] [Client thread/INFO]: [com.vicmatskiv.weaponlib.grenade.ItemGrenade$Builder:build:387]: !!!No recipe defined for grenade GasGrenade
+[10:18:38] [Client thread/INFO]: [com.vicmatskiv.weaponlib.grenade.ItemGrenade$Builder:build:387]: !!!No recipe defined for grenade Flash
+[10:18:38] [Client thread/INFO]: [com.vicmatskiv.weaponlib.melee.ItemMelee$Builder:build:270]: !!!No recipe defined for melee weapon tactical_tomahawk
+[10:18:38] [Client thread/INFO]: [com.vicmatskiv.weaponlib.melee.ItemMelee$Builder:build:270]: !!!No recipe defined for melee weapon baseball_bat
+[10:18:38] [Client thread/INFO]: [com.vicmatskiv.weaponlib.melee.ItemMelee$Builder:build:270]: !!!No recipe defined for melee weapon baseball_bat_nails
+[10:18:38] [Client thread/INFO]: [com.vicmatskiv.weaponlib.melee.ItemMelee$Builder:build:270]: !!!No recipe defined for melee weapon night_stick
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileweapons_case`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileweapons_case_small`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilerussian_weapons_case`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileammo_box`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileweapons_locker`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilefridge_open`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilefridge_closed`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileartillery_prop`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilesupply_drop`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilemedical_crate`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilelocker`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilescp_locker`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilebarrel`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileexplosive_barrel`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilepc`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilelaptop`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilemonitor`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilefilingcabinet`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilefilingcabinet_opened`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileshelf_right`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileshelf_left`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileshelf_top`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tiletv`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileceiling_tv`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileceiling_tv_rotated`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileoffice_chair`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileoffice_chair_2`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tiledesk_corner`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tiledesk_corner_alt1`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tiledesk_left`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tiledesk_left_alt1`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tiledesk_middle`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tiledesk_middle_alt1`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tiledesk_right`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tiledesk_right_alt1`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tiledesk_shelf`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tiledesk_shelf_alt1`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tiledesk_shelf_alt2`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tiledesk_shelf_alt3`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilebarrier`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilebarrier_rotated`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilebody_bag`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilehanging_body`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileimpaled_body`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tiledumpster`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilewooden_crate`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilewooden_crate_opened`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileoperating_table`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileoperating_table_alt`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileforklift`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileforklift_alt`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tiletrusses`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileceiling_lamp`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileceiling_lamp_alt`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilevent`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilevent_rotated`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilevent_corner`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilevent_corner_rotated`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilevent_corner_rotated_alt`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilevent_intersection`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilevent_end`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilewhite_desk_left`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilewhite_desk_middle`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilewhite_desk_right`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tiletrash_bin`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilecaution_sign`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileelectric_box`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileelectric_box_opened`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilehome_chair`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileoutdoor_chair`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilehome_chair_rotated`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileoutdoor_chair_rotated`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilevending_machine`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileserverrackleft`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileserverrackemptyleft`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileserverrackleftalt`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileserverrackleftalt2`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileserverrackleftalt3`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileserverrackemptyright`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileserverrackright`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileserverrackrightalt`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileserverracktopleft`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileserverracktopright`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileduelfloodlight`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilefloodlight`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileradio_rotated`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileradio`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilecamera_rotated`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilepropanetank`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tiletowablefloodlight`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilehescobastion`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilesandbag`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilesandbagwall`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilecrossgravestone`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilecrossgravestone2`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilecrossgravestone3`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilegravestoneskull`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilegravestone`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilescarecrow`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilespookyghost`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilespookyghost2`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilespookyghost3`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileswat_truck`, expected `mw`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:39] [Client thread/INFO]: Initializing content manager
+[10:18:39] [Content Thread/FATAL]: Couldn't parse received data: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[10:18:39] [Content Thread/INFO]: Scheduling new parse attempts in 30s until successful
+[10:18:39] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitysovietbox`, expected `soviet`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:39] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitytableside`, expected `soviet`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:39] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitybedside`, expected `soviet`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:39] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitysafe`, expected `soviet`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:39] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitywlabtable`, expected `soviet`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:39] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitylabtable`, expected `soviet`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:39] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitydrycab`, expected `soviet`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:39] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitystillage`, expected `soviet`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:39] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitysovietbox`, expected `soviet`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:39] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitydrycab`, expected `soviet`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:39] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitytumb`, expected `soviet`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:39] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitylabtable`, expected `soviet`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:39] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitywlabtable`, expected `soviet`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:39] [Client thread/INFO]: OBJLoader: Domain soviet has been added.
+[10:18:39] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileredstoneblock`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:39] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileblockanvil`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:39] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilemailbox`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:39] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilewaypoint`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:39] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpcscripted`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:39] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpcscripteddoor`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:39] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpcbuilder`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:39] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpccopy`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:39] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpcborder`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[10:18:39] [Client thread/INFO]: Applying holder lookups
+[10:18:39] [Client thread/INFO]: Holder lookups applied
+[10:18:39] [Client thread/INFO]: Applying holder lookups
+[10:18:39] [Client thread/INFO]: Holder lookups applied
+[10:18:39] [Client thread/INFO]: Applying holder lookups
+[10:18:39] [Client thread/INFO]: Holder lookups applied
+[10:18:40] [Client thread/INFO]: Applying holder lookups
+[10:18:40] [Client thread/INFO]: Holder lookups applied
+[10:18:40] [Client thread/INFO]: Injecting itemstacks
+[10:18:40] [Client thread/INFO]: Itemstack injection complete
+[10:18:40] [Client thread/INFO]: [OptiFine] *** Reloading textures ***
+[10:18:40] [Client thread/INFO]: [OptiFine] Resource packs: Default
+[10:18:40] [Client thread/WARN]: Missing sound for event: mw:opticzoom
+[10:18:40] [Client thread/WARN]: Missing sound for event: mw:snipersilencer
+[10:18:40] [Client thread/WARN]: Missing sound for event: mw:drawweapon
+[10:18:40] [Client thread/WARN]: Missing sound for event: mw:unload
+[10:18:40] [Client thread/WARN]: Missing sound for event: mw:shotgunsilenced
+[10:18:40] [Client thread/WARN]: Missing sound for event: mw:reload
+[10:18:40] [Client thread/WARN]: Missing sound for event: mw:swoosh
+[10:18:40] [Client thread/WARN]: Missing sound for event: pubgmc:reload.flare
+[10:18:40] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[10:18:40] [Thread-11/INFO]: Initializing LWJGL OpenAL
+[10:18:40] [Thread-11/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[10:18:40] [Thread-11/INFO]: OpenAL initialized.
+[10:18:41] [Sound Library Loader/INFO]: Sound engine started
+[10:18:42] [Client thread/INFO]: [OptiFine] Mipmap levels: 4
+[10:18:42] [Client thread/INFO]: [OptiFine] Multitexture: false
+[10:18:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/0_glass_white/glass_pane_white.properties
+[10:18:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/0_glass_white/glass_white.properties
+[10:18:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/10_glass_purple/glass_pane_purple.properties
+[10:18:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/10_glass_purple/glass_purple.properties
+[10:18:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/11_glass_blue/glass_blue.properties
+[10:18:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/11_glass_blue/glass_pane_blue.properties
+[10:18:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/12_glass_brown/glass_brown.properties
+[10:18:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/12_glass_brown/glass_pane_brown.properties
+[10:18:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/13_glass_green/glass_green.properties
+[10:18:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/13_glass_green/glass_pane_green.properties
+[10:18:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/14_glass_red/glass_pane_red.properties
+[10:18:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/14_glass_red/glass_red.properties
+[10:18:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/15_glass_black/glass_black.properties
+[10:18:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/15_glass_black/glass_pane_black.properties
+[10:18:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/1_glass_orange/glass_orange.properties
+[10:18:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/1_glass_orange/glass_pane_orange.properties
+[10:18:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/2_glass_magenta/glass_magenta.properties
+[10:18:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/2_glass_magenta/glass_pane_magenta.properties
+[10:18:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/3_glass_light_blue/glass_light_blue.properties
+[10:18:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/3_glass_light_blue/glass_pane_light_blue.properties
+[10:18:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/4_glass_yellow/glass_pane_yellow.properties
+[10:18:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/4_glass_yellow/glass_yellow.properties
+[10:18:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/5_glass_lime/glass_lime.properties
+[10:18:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/5_glass_lime/glass_pane_lime.properties
+[10:18:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/6_glass_pink/glass_pane_pink.properties
+[10:18:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/6_glass_pink/glass_pink.properties
+[10:18:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/7_glass_gray/glass_gray.properties
+[10:18:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/7_glass_gray/glass_pane_gray.properties
+[10:18:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/8_glass_silver/glass_pane_silver.properties
+[10:18:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/8_glass_silver/glass_silver.properties
+[10:18:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/9_glass_cyan/glass_cyan.properties
+[10:18:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/9_glass_cyan/glass_pane_cyan.properties
+[10:18:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/bookshelf.properties
+[10:18:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/glass.properties
+[10:18:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/glasspane.properties
+[10:18:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/sandstone.properties
+[10:18:42] [Client thread/INFO]: [OptiFine] Multipass connected textures: false
+[10:18:42] [Client thread/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[10:18:42] [Client thread/INFO]: [OptiFine] Scaled non power of 2: soviet:blocks/back, 28 -> 32
+[10:18:42] [Client thread/ERROR]: Using missing texture, unable to load mw:textures/items/scpguard_boots.png, java.io.FileNotFoundException
+[10:18:43] [Client thread/INFO]: [OptiFine] Scaled too small texture: soviet:blocks/stevehead/up, 8 -> 16
+[10:18:43] [Client thread/INFO]: [OptiFine] Scaled non power of 2: soviet:blocks/gold_spiral, 11 -> 16
+[10:18:43] [Client thread/INFO]: [OptiFine] Scaled too small texture: tinyinv:items/fake_item, 1 -> 16
+[10:18:43] [Client thread/INFO]: [OptiFine] Scaled too small texture: soviet:blocks/stevehead/right_s, 8 -> 16
+[10:18:43] [Client thread/INFO]: [OptiFine] Scaled too small texture: soviet:blocks/stevehead/left_s, 8 -> 16
+[10:18:43] [Client thread/INFO]: [OptiFine] Scaled too small texture: soviet:blocks/stevehead/front_s, 8 -> 16
+[10:18:43] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/back_s.png, java.io.FileNotFoundException
+[10:18:43] [Client thread/INFO]: [OptiFine] Scaled non power of 2: soviet:blocks/sysblock, 28 -> 32
+[10:18:43] [Client thread/INFO]: [OptiFine] Scaled too small texture: soviet:blocks/stevehead/front, 8 -> 16
+[10:18:43] [Client thread/INFO]: [OptiFine] Scaled too small texture: soviet:blocks/stevehead/down, 8 -> 16
+[10:18:43] [Client thread/INFO]: [OptiFine] Scaled too small texture: soviet:blocks/stevehead/back, 8 -> 16
+[10:18:43] [Client thread/INFO]: [OptiFine] Scaled non power of 2: soviet:blocks/monitor_enable, 26 -> 32
+[10:18:43] [Client thread/INFO]: [OptiFine] Scaled too small texture: soviet:blocks/stevehead/right, 8 -> 16
+[10:18:43] [Client thread/INFO]: [OptiFine] Scaled non power of 2: soviet:blocks/dark_sysblock, 28 -> 32
+[10:18:43] [Client thread/INFO]: [OptiFine] Scaled too small texture: soviet:blocks/stevehead/up_s, 8 -> 16
+[10:18:43] [Client thread/INFO]: [OptiFine] Scaled too small texture: soviet:blocks/stevehead/left, 8 -> 16
+[10:18:43] [Client thread/INFO]: [OptiFine] Scaled too small texture: soviet:blocks/stevehead/down_s, 8 -> 16
+[10:18:43] [Client thread/INFO]: [OptiFine] Scaled non power of 2: soviet:blocks/red_banner, 89 -> 96
+[10:18:43] [Client thread/INFO]: [OptiFine] Scaled non power of 2: soviet:blocks/front, 28 -> 32
+[10:18:43] [Client thread/INFO]: [OptiFine] Scaled too small texture: soviet:blocks/stevehead/back_s, 8 -> 16
+[10:18:43] [Client thread/INFO]: [OptiFine] Scaled non power of 2: soviet:blocks/monitor_disable, 26 -> 32
+[10:18:43] [Client thread/INFO]: [OptiFine] Scaled non power of 2: soviet:blocks/glazed_tile_blue_full, 17 -> 32
+[10:18:43] [Client thread/INFO]: [OptiFine] Custom loader sprites: 3
+[10:18:43] [Client thread/INFO]: [OptiFine] Sprite dependencies: 5
+[10:18:43] [Client thread/INFO]: Created: 2048x2048 textures-atlas
+[10:18:43] [Client thread/INFO]: [OptiFine] Animated sprites: 41
+[10:18:44] [Client thread/WARN]: Unable to resolve texture due to upward reference: #all in minecraft:models/block/cube_all.json
+[10:18:44] [Client thread/WARN]: Unable to resolve texture due to upward reference: #all in minecraft:models/block/cube_all.json
+[10:18:44] [Client thread/WARN]: Unable to resolve texture due to upward reference: #all in minecraft:models/block/cube_all.json
+[10:18:44] [Client thread/WARN]: Unable to resolve texture due to upward reference: #all in minecraft:models/block/cube_all.json
+[10:18:44] [Client thread/WARN]: Unable to resolve texture due to upward reference: #all in minecraft:models/block/cube_all.json
+[10:18:44] [Client thread/WARN]: Unable to resolve texture due to upward reference: #all in minecraft:models/block/cube_all.json
+[10:18:44] [Client thread/WARN]: Unable to resolve texture due to upward reference: #all in minecraft:models/block/cube_all.json
+[10:18:44] [Client thread/WARN]: Unable to resolve texture due to upward reference: #all in minecraft:models/block/cube_all.json
+[10:18:44] [Client thread/WARN]: Unable to resolve texture due to upward reference: #all in minecraft:models/block/cube_all.json
+[10:18:44] [Client thread/WARN]: Unable to resolve texture due to upward reference: #all in minecraft:models/block/cube_all.json
+[10:18:44] [Client thread/WARN]: Unable to resolve texture due to upward reference: #all in minecraft:models/block/cube_all.json
+[10:18:44] [Client thread/WARN]: Unable to resolve texture due to upward reference: #all in minecraft:models/block/cube_all.json
+[10:18:44] [Client thread/WARN]: Unable to resolve texture due to upward reference: #all in minecraft:models/block/cube_all.json
+[10:18:44] [Client thread/WARN]: Unable to resolve texture due to upward reference: #all in minecraft:models/block/cube_all.json
+[10:18:44] [Client thread/WARN]: Unable to resolve texture due to upward reference: #all in minecraft:models/block/cube_all.json
+[10:18:44] [Client thread/WARN]: Unable to resolve texture due to upward reference: #all in minecraft:models/block/cube_all.json
+[10:18:44] [Client thread/WARN]: Unable to resolve texture due to upward reference: #all in minecraft:models/block/cube_all.json
+[10:18:44] [Client thread/WARN]: Unable to resolve texture due to upward reference: #all in minecraft:models/block/cube_all.json
+[10:18:44] [Client thread/WARN]: Unable to resolve texture due to upward reference: #all in minecraft:models/block/cube_all.json
+[10:18:44] [Client thread/WARN]: Unable to resolve texture due to upward reference: #all in minecraft:models/block/cube_all.json
+[10:18:44] [Client thread/WARN]: Unable to resolve texture due to upward reference: #all in minecraft:models/block/cube_all.json
+[10:18:44] [Client thread/WARN]: Unable to resolve texture due to upward reference: #all in minecraft:models/block/cube_all.json
+[10:18:44] [Client thread/WARN]: Unable to resolve texture due to upward reference: #all in minecraft:models/block/cube_all.json
+[10:18:44] [Client thread/ERROR]: Exception loading model for variant soviet:bio/bio_stil#axis=y,def=true,down=true,middle=false,up=false
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model soviet:bio/bio_stil#axis=y,def=true,down=true,middle=false,up=false with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177569_a(ModelLoader.java:235) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:166) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_188640_b(ModelLoader.java:223) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:150) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
+	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.func_188004_c(ModelBlockDefinition.java:83) ~[bvv.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 15 more
+[10:18:44] [Client thread/ERROR]: Exception loading model for variant mw:vent_rotated#facing=south
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model mw:vent_rotated#facing=south with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177569_a(ModelLoader.java:235) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:166) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_188640_b(ModelLoader.java:223) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:150) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
+	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.func_188004_c(ModelBlockDefinition.java:83) ~[bvv.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 15 more
+[10:18:44] [Client thread/ERROR]: Exception loading blockstate for the variant mw:vent_rotated#facing=south: 
+java.lang.Exception: Could not load model definition for variant mw:vent_rotated
+	at net.minecraftforge.client.model.ModelLoader.func_177586_a(ModelLoader.java:269) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:129) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_188640_b(ModelLoader.java:223) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:150) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.lang.RuntimeException: Encountered an exception when loading model definition of model mw:blockstates/vent_rotated.json
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_188632_a(ModelBakery.java:251) ~[cgb.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177586_a(ModelBakery.java:231) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177586_a(ModelLoader.java:265) ~[ModelLoader.class:?]
+	... 14 more
+Caused by: java.io.FileNotFoundException: mw:blockstates/vent_rotated.json
+	at net.minecraft.client.resources.FallbackResourceManager.func_135056_b(FallbackResourceManager.java:104) ~[cei.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_135056_b(SimpleReloadableResourceManager.java:79) ~[cev.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_188632_a(ModelBakery.java:244) ~[cgb.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177586_a(ModelBakery.java:231) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177586_a(ModelLoader.java:265) ~[ModelLoader.class:?]
+	... 14 more
+[10:18:44] [Client thread/ERROR]: Exception loading model for variant mw:barrier_rotated#facing=north
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model mw:barrier_rotated#facing=north with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177569_a(ModelLoader.java:235) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:166) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_188640_b(ModelLoader.java:223) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:150) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
+	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.func_188004_c(ModelBlockDefinition.java:83) ~[bvv.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 15 more
+[10:18:44] [Client thread/ERROR]: Exception loading blockstate for the variant mw:barrier_rotated#facing=north: 
+java.lang.Exception: Could not load model definition for variant mw:barrier_rotated
+	at net.minecraftforge.client.model.ModelLoader.func_177586_a(ModelLoader.java:269) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:129) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_188640_b(ModelLoader.java:223) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:150) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.lang.RuntimeException: Encountered an exception when loading model definition of model mw:blockstates/barrier_rotated.json
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_188632_a(ModelBakery.java:251) ~[cgb.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177586_a(ModelBakery.java:231) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177586_a(ModelLoader.java:265) ~[ModelLoader.class:?]
+	... 14 more
+Caused by: java.io.FileNotFoundException: mw:blockstates/barrier_rotated.json
+	at net.minecraft.client.resources.FallbackResourceManager.func_135056_b(FallbackResourceManager.java:104) ~[cei.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_135056_b(SimpleReloadableResourceManager.java:79) ~[cev.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_188632_a(ModelBakery.java:244) ~[cgb.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177586_a(ModelBakery.java:231) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177586_a(ModelLoader.java:265) ~[ModelLoader.class:?]
+	... 14 more
+[10:18:44] [Client thread/ERROR]: Exception loading model for variant soviet:bio/bio_stil#axis=z,def=false,down=true,middle=false,up=true
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model soviet:bio/bio_stil#axis=z,def=false,down=true,middle=false,up=true with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177569_a(ModelLoader.java:235) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:166) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_188640_b(ModelLoader.java:223) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:150) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
+	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.func_188004_c(ModelBlockDefinition.java:83) ~[bvv.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 15 more
+[10:18:44] [Client thread/ERROR]: Exception loading model for variant mw:serverracktopleft#facing=east
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model mw:serverracktopleft#facing=east with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177569_a(ModelLoader.java:235) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:166) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_188640_b(ModelLoader.java:223) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:150) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
+	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.func_188004_c(ModelBlockDefinition.java:83) ~[bvv.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 15 more
+[10:18:44] [Client thread/ERROR]: Exception loading blockstate for the variant mw:serverracktopleft#facing=east: 
+java.lang.Exception: Could not load model definition for variant mw:serverracktopleft
+	at net.minecraftforge.client.model.ModelLoader.func_177586_a(ModelLoader.java:269) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:129) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_188640_b(ModelLoader.java:223) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:150) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.lang.RuntimeException: Encountered an exception when loading model definition of model mw:blockstates/serverracktopleft.json
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_188632_a(ModelBakery.java:251) ~[cgb.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177586_a(ModelBakery.java:231) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177586_a(ModelLoader.java:265) ~[ModelLoader.class:?]
+	... 14 more
+Caused by: java.io.FileNotFoundException: mw:blockstates/serverracktopleft.json
+	at net.minecraft.client.resources.FallbackResourceManager.func_135056_b(FallbackResourceManager.java:104) ~[cei.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_135056_b(SimpleReloadableResourceManager.java:79) ~[cev.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_188632_a(ModelBakery.java:244) ~[cgb.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177586_a(ModelBakery.java:231) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177586_a(ModelLoader.java:265) ~[ModelLoader.class:?]
+	... 14 more
+[10:18:44] [Client thread/ERROR]: Exception loading model for variant mw:gravestone#facing=west
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model mw:gravestone#facing=west with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177569_a(ModelLoader.java:235) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:166) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_188640_b(ModelLoader.java:223) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:150) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
+	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.func_188004_c(ModelBlockDefinition.java:83) ~[bvv.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 15 more
+[10:18:44] [Client thread/ERROR]: Exception loading blockstate for the variant mw:gravestone#facing=west: 
+java.lang.Exception: Could not load model definition for variant mw:gravestone
+	at net.minecraftforge.client.model.ModelLoader.func_177586_a(ModelLoader.java:269) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:129) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_188640_b(ModelLoader.java:223) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:150) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.lang.RuntimeException: Encountered an exception when loading model definition of model mw:blockstates/gravestone.json
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_188632_a(ModelBakery.java:251) ~[cgb.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177586_a(ModelBakery.java:231) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177586_a(ModelLoader.java:265) ~[ModelLoader.class:?]
+	... 14 more
+Caused by: java.io.FileNotFoundException: mw:blockstates/gravestone.json
+	at net.minecraft.client.resources.FallbackResourceManager.func_135056_b(FallbackResourceManager.java:104) ~[cei.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_135056_b(SimpleReloadableResourceManager.java:79) ~[cev.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_188632_a(ModelBakery.java:244) ~[cgb.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177586_a(ModelBakery.java:231) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177586_a(ModelLoader.java:265) ~[ModelLoader.class:?]
+	... 14 more
+[10:18:44] [Client thread/ERROR]: Exception loading model for variant soviet:airlock_door#inventory, normal location exception: 
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model soviet:item/airlock_door with loader VanillaLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177590_d(ModelLoader.java:302) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177577_b(ModelBakery.java:194) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:151) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.io.FileNotFoundException: soviet:models/item/airlock_door.json
+	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(FallbackResourceManager.java:69) ~[cei.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SimpleReloadableResourceManager.java:65) ~[cev.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177594_c(ModelBakery.java:365) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.access$1400(ModelLoader.java:115) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VanillaLoader.loadModel(ModelLoader.java:861) ~[ModelLoader$VanillaLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 14 more
+[10:18:44] [Client thread/ERROR]: Exception loading model for variant soviet:airlock_door#inventory, blockstate location exception: 
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model soviet:airlock_door#inventory with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177590_d(ModelLoader.java:296) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177577_b(ModelBakery.java:194) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:151) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
+	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.func_188004_c(ModelBlockDefinition.java:83) ~[bvv.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 14 more
+[10:18:44] [Client thread/ERROR]: Exception loading model for variant soviet:modern_window_leaf#broken=true,down=false,facing=east
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model soviet:modern_window_leaf#broken=true,down=false,facing=east with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177569_a(ModelLoader.java:235) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:166) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_188640_b(ModelLoader.java:223) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:150) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model soviet:block/modern_window_leaf_def_brok with loader VanillaLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader$WeightedRandomModel.<init>(ModelLoader.java:658) ~[ModelLoader$WeightedRandomModel.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1176) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 15 more
+Caused by: java.io.FileNotFoundException: soviet:models/block/modern_window_leaf_def_brok.json
+	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(FallbackResourceManager.java:69) ~[cei.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SimpleReloadableResourceManager.java:65) ~[cev.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177594_c(ModelBakery.java:365) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.access$1400(ModelLoader.java:115) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VanillaLoader.loadModel(ModelLoader.java:861) ~[ModelLoader$VanillaLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader$WeightedRandomModel.<init>(ModelLoader.java:658) ~[ModelLoader$WeightedRandomModel.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1176) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 15 more
+[10:18:44] [Client thread/FATAL]: Suppressed additional 426 model loading errors for domain mw
+[10:18:44] [Client thread/FATAL]: Suppressed additional 84 model loading errors for domain soviet
+[10:18:45] [Client thread/INFO]: Applying holder lookups
+[10:18:45] [Client thread/INFO]: Holder lookups applied
+[10:18:47] [Client thread/INFO]: CustomNPC Permissions available:
+[10:18:47] [Client thread/INFO]: customnpcs.edit.blocks
+[10:18:47] [Client thread/INFO]: customnpcs.edit.villager
+[10:18:47] [Client thread/INFO]: customnpcs.global.bank
+[10:18:47] [Client thread/INFO]: customnpcs.global.dialog
+[10:18:47] [Client thread/INFO]: customnpcs.global.faction
+[10:18:47] [Client thread/INFO]: customnpcs.global.linked
+[10:18:47] [Client thread/INFO]: customnpcs.global.naturalspawn
+[10:18:47] [Client thread/INFO]: customnpcs.global.playerdata
+[10:18:47] [Client thread/INFO]: customnpcs.global.quest
+[10:18:47] [Client thread/INFO]: customnpcs.global.recipe
+[10:18:47] [Client thread/INFO]: customnpcs.global.transport
+[10:18:47] [Client thread/INFO]: customnpcs.npc.advanced
+[10:18:47] [Client thread/INFO]: customnpcs.npc.ai
+[10:18:47] [Client thread/INFO]: customnpcs.npc.clone
+[10:18:47] [Client thread/INFO]: customnpcs.npc.create
+[10:18:47] [Client thread/INFO]: customnpcs.npc.delete
+[10:18:47] [Client thread/INFO]: customnpcs.npc.display
+[10:18:47] [Client thread/INFO]: customnpcs.npc.freeze
+[10:18:47] [Client thread/INFO]: customnpcs.npc.gui
+[10:18:47] [Client thread/INFO]: customnpcs.npc.inventory
+[10:18:47] [Client thread/INFO]: customnpcs.npc.reset
+[10:18:47] [Client thread/INFO]: customnpcs.npc.stats
+[10:18:47] [Client thread/INFO]: customnpcs.scenes
+[10:18:47] [Client thread/INFO]: customnpcs.soulstone.all
+[10:18:47] [Client thread/INFO]: customnpcs.spawner.create
+[10:18:47] [Client thread/INFO]: customnpcs.spawner.mob
+[10:18:47] [Client thread/INFO]: customnpcs.tool.mounter
+[10:18:47] [Client thread/INFO]: customnpcs.tool.nbtbook
+[10:18:47] [Client thread/INFO]: customnpcs.tool.pather
+[10:18:47] [Client thread/INFO]: customnpcs.tool.scripter
+[10:18:47] [Client thread/INFO]: [noppes.npcs.CustomNpcs:load:258]: Markov dictionaries loaded!
+[10:18:47] [Client thread/INFO]: Injecting itemstacks
+[10:18:47] [Client thread/INFO]: Itemstack injection complete
+[10:18:47] [Client thread/INFO]: Workbench recipes initialized. Recipes: 97, took 6 miliseconds.
+[10:18:48] [Client thread/INFO]: Forge Mod Loader has successfully loaded 16 mods
+[10:18:48] [Client thread/INFO]: Narrator library for x64 successfully loaded
+[10:18:48] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: mods.betterfoliage.client.BetterFoliageClient
+[10:18:48] [Client thread/INFO]: [OptiFine] *** Reloading custom textures ***
+[10:19:09] [Content Thread/FATAL]: Couldn't parse received data: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[10:19:21] [Client thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[10:19:21] [Server thread/INFO]: Starting integrated minecraft server version 1.12.2
+[10:19:21] [Server thread/INFO]: Generating keypair
+[10:19:21] [Server thread/INFO]: Injecting existing registry data into this server instance
+[10:19:22] [Server thread/INFO]: Applying holder lookups
+[10:19:22] [Server thread/INFO]: Holder lookups applied
+[10:19:22] [Server thread/INFO]: Loading dimension 0 (Новый мир) (net.minecraft.server.integrated.IntegratedServer@61ba0ba1)
+[10:19:22] [Server thread/INFO]: Loaded 488 advancements
+[10:19:22] [Server thread/INFO]: Loading dimension -1 (Новый мир) (net.minecraft.server.integrated.IntegratedServer@61ba0ba1)
+[10:19:22] [Server thread/INFO]: Loading dimension 1 (Новый мир) (net.minecraft.server.integrated.IntegratedServer@61ba0ba1)
+[10:19:22] [Server thread/INFO]: Preparing start region for level 0
+[10:19:23] [Server thread/INFO]: Preparing spawn area: 12%
+[10:19:24] [Server thread/INFO]: Preparing spawn area: 28%
+[10:19:25] [Server thread/INFO]: Preparing spawn area: 45%
+[10:19:26] [Server thread/INFO]: Preparing spawn area: 61%
+[10:19:27] [Server thread/INFO]: Preparing spawn area: 76%
+[10:19:28] [Server thread/INFO]: Preparing spawn area: 91%
+[10:19:29] [Server thread/INFO]: Unloading dimension -1
+[10:19:29] [Server thread/INFO]: Unloading dimension 1
+[10:19:29] [Server thread/INFO]: Changing view distance to 8, from 10
+[10:19:30] [Netty Local Client IO #0/INFO]: Server protocol version 2
+[10:19:30] [Netty Server IO #1/INFO]: Client protocol version 2
+[10:19:30] [Netty Server IO #1/INFO]: Client attempting to join with 16 mods : minecraft@1.12.2,FML@8.0.99.99,configuration@1.0.3.1,roughtweaks@1.0,customnpcs@1.12,baubles@1.5.2,mw@0.4.6.2,hardcoredarkness@1.9,soviet@0.5,tlauncher_custom_cape_skin@1.4,djumpplates@1.1,forge@14.23.5.2859,tinyinv@1.3,mcp@9.42,pubgmc@1.9.6,artifacts@1.12.2-1.2.4
+[10:19:30] [Netty Local Client IO #0/INFO]: [Netty Local Client IO #0] Client side modded connection established
+[10:19:30] [Server thread/INFO]: [Server thread] Server side modded connection established
+[10:19:30] [Server thread/INFO]: voenstalc[local:E:fd0d964d] logged in with entity id 1316 at (132.5, 71.0, 253.5)
+[10:19:30] [Server thread/INFO]: voenstalc присоединился к игре
+[10:19:32] [Server thread/INFO]: Saving and pausing game...
+[10:19:32] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+[10:19:32] [Client thread/INFO]: textures voenstalc was added, skin: true,cape: false, max waiting: 5 ,during : 44347 
+[10:19:32] [Client thread/INFO]: Updated 0 mission offerings
+[10:19:32] [Thread-7/INFO]: [CHAT] §2CustomNpcs§f installed. For more info §9§nClick here
+[10:19:32] [Server thread/INFO]: Saving and pausing game...
+[10:19:32] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+[10:19:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2037ms behind, skipping 40 tick(s)
+[10:19:39] [Content Thread/FATAL]: Couldn't parse received data: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[10:20:09] [Content Thread/FATAL]: Couldn't parse received data: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[10:20:27] [Server thread/INFO]: Saving and pausing game...
+[10:20:27] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+[10:20:35] [Server thread/INFO]: Saving and pausing game...
+[10:20:35] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+[10:20:37] [Server thread/INFO]: Saving and pausing game...
+[10:20:37] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+[10:20:39] [Content Thread/FATAL]: Couldn't parse received data: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[10:20:43] [Server thread/INFO]: Changing view distance to 16, from 8
+[10:20:47] [Server thread/INFO]: Saving and pausing game...
+[10:20:47] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+[10:20:48] [Client thread/INFO]: [CHAT] /game, /gamemode, /gamerule, /generator, /give
+[10:20:49] [Client thread/INFO]: [CHAT] /game, /gamemode, /gamerule, /generator, /give
+[10:20:52] [Server thread/INFO]: [voenstalc: Ваш режим игры изменён на Творческий режим]
+[10:20:52] [Client thread/INFO]: [CHAT] Ваш игровой режим изменён на Творческий режим
+[10:20:54] [Client thread/WARN]: Failed to load texture: mw:textures/models/ak12.png
+java.io.FileNotFoundException: mw:textures/models/ak12.png
+	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(FallbackResourceManager.java:69) ~[cei.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SimpleReloadableResourceManager.java:65) ~[cev.class:?]
+	at net.minecraft.client.renderer.texture.SimpleTexture.func_110551_a(SimpleTexture.java:40) ~[cdm.class:?]
+	at net.minecraft.client.renderer.texture.TextureManager.func_110579_a(TextureManager.java:101) [cdr.class:?]
+	at net.minecraft.client.renderer.texture.TextureManager.func_110577_a(TextureManager.java:67) [cdr.class:?]
+	at com.vicmatskiv.weaponlib.WeaponRenderer.renderCompatibleAttachment(WeaponRenderer.java:2037) [WeaponRenderer.class:?]
+	at com.vicmatskiv.weaponlib.WeaponRenderer.renderAttachments(WeaponRenderer.java:2001) [WeaponRenderer.class:?]
+	at com.vicmatskiv.weaponlib.WeaponRenderer.renderItem(WeaponRenderer.java:1989) [WeaponRenderer.class:?]
+	at com.vicmatskiv.weaponlib.compatibility.CompatibleWeaponRenderer.renderItem(CompatibleWeaponRenderer.java:355) [CompatibleWeaponRenderer.class:?]
+	at com.vicmatskiv.weaponlib.compatibility.CompatibleWeaponRenderer.func_188616_a(CompatibleWeaponRenderer.java:160) [CompatibleWeaponRenderer.class:?]
+	at net.minecraft.client.renderer.RenderItem.func_191967_a(RenderItem.java:168) [bzw.class:?]
+	at net.minecraft.client.renderer.RenderItem.func_191961_a(RenderItem.java:136) [bzw.class:?]
+	at net.minecraft.client.renderer.RenderItem.func_180454_a(RenderItem.java:216) [bzw.class:?]
+	at net.minecraft.client.renderer.RenderItem.func_191962_a(RenderItem.java:517) [bzw.class:?]
+	at net.minecraft.client.renderer.RenderItem.func_184391_a(RenderItem.java:559) [bzw.class:?]
+	at net.minecraft.client.renderer.RenderItem.func_180450_b(RenderItem.java:548) [bzw.class:?]
+	at net.minecraft.client.gui.inventory.GuiContainerCreative.func_147051_a(GuiContainerCreative.java:922) [bmp.class:?]
+	at net.minecraft.client.gui.inventory.GuiContainerCreative.func_146976_a(GuiContainerCreative.java:758) [bmp.class:?]
+	at net.minecraft.client.gui.inventory.GuiContainer.func_73863_a(GuiContainer.java:75) [bmg.class:?]
+	at net.minecraft.client.renderer.InventoryEffectRenderer.func_73863_a(InventoryEffectRenderer.java:51) [bmr.class:?]
+	at net.minecraft.client.gui.inventory.GuiContainerCreative.func_73863_a(GuiContainerCreative.java:643) [bmp.class:?]
+	at net.minecraftforge.client.ForgeHooksClient.drawScreen(ForgeHooksClient.java:396) [ForgeHooksClient.class:?]
+	at sun.reflect.GeneratedMethodAccessor24.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.optifine.reflect.Reflector.callVoid(Reflector.java:669) [Reflector.class:?]
+	at net.minecraft.client.renderer.EntityRenderer.func_181560_a(EntityRenderer.java:1462) [buq.class:?]
+	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1119) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:398) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+[10:20:57] [Client thread/INFO]: [CHAT] /game, /gamemode, /gamerule, /generator, /give
+[10:20:57] [Client thread/INFO]: [CHAT] /game, /gamemode, /gamerule, /generator, /give
+[10:20:59] [Client thread/INFO]: [CHAT] spectator, survival
+[10:20:59] [Client thread/INFO]: [CHAT] spectator, survival
+[10:21:00] [Server thread/INFO]: [voenstalc: Ваш режим игры изменён на Режим выживания]
+[10:21:00] [Client thread/INFO]: [CHAT] Ваш игровой режим изменён на Режим выживания
+[10:21:05] [Server thread/INFO]: Saving and pausing game...
+[10:21:05] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+[10:21:09] [Content Thread/FATAL]: Couldn't parse received data: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[10:21:18] [Server thread/INFO]: Saving and pausing game...
+[10:21:18] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+[10:21:39] [Content Thread/FATAL]: Couldn't parse received data: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[10:22:09] [Content Thread/FATAL]: Couldn't parse received data: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[10:22:39] [Content Thread/FATAL]: Couldn't parse received data: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[10:23:09] [Content Thread/FATAL]: Couldn't parse received data: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[10:23:39] [Content Thread/FATAL]: Couldn't parse received data: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[10:23:58] [Client thread/INFO]: Stopping!
+[10:23:58] [Server thread/INFO]: Stopping server
+[10:23:58] [Server thread/INFO]: Saving players
+[10:23:58] [Server thread/INFO]: Saving worlds
+[10:23:58] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+[10:23:58] [Server thread/INFO]: Unloading dimension 0
+[10:23:58] [Server thread/INFO]: Applying holder lookups
+[10:23:58] [Server thread/INFO]: Holder lookups applied
+[10:23:58] [Client thread/INFO]: SoundSystem shutting down...
+[10:23:58] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
